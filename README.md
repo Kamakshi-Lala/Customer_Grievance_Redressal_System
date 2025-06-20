@@ -1,6 +1,6 @@
 # RAG based - Customer Grievance Redressal System
 
-This project implements *AI-Powered Citizen Complaints Categorization* that classifies citizen complaints into categories based on *priority, **sentiment, and **department* using a *Retrieval Augmented Generation (RAG)* architecture.
+This project implements *AI-Powered Citizen Complaints Categorization* that classifies citizen complaints into categories based on *priority*, *sentiment*, and *department* using a *Retrieval Augmented Generation (RAG)* architecture.
 
 ---
 
