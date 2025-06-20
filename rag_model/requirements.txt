@@ -1,0 +1,7 @@
+google-generative-ai
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+PyYAML
+pydantic
