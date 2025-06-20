@@ -1,0 +1,2809 @@
+[
+  {
+    "id": "001",
+    "category": "Water",
+    "complaint_text": "For the past week, our neighborhood has been experiencing a complete lack of water supply. This has caused immense hardship for residents, making basic daily activities like bathing, cooking, and sanitation extremely difficult. We are facing a severe crisis and urgently request your intervention to restore the water flow immediately.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "002",
+    "category": "Electricity",
+    "complaint_text": "We are consistently plagued by frequent and prolonged power outages in our area, sometimes lasting for several hours at a stretch. This erratic electricity supply is severely disrupting daily life, affecting children's studies, hindering home-based work, and causing discomfort, especially during the hot summer nights. We appeal for a more stable and reliable power supply.",
+    "priority": "High",
+    "location": "Lucknow"
+  },
+  {
+    "id": "003",
+    "category": "Healthcare",
+    "complaint_text": "The local government hospital is severely understaffed and lacks essential medical equipment and life-saving drugs. Patients are not receiving timely or adequate care, leading to worsening conditions and increasing frustration. We urge you to address these critical deficiencies to ensure proper healthcare services are available to all citizens.",
+    "priority": "High",
+    "location": "Agra"
+  },
+  {
+    "id": "004",
+    "category": "Roads",
+    "complaint_text": "The main roads in our residential area are in a deplorable condition, riddled with deep potholes and uneven surfaces. This makes driving extremely hazardous, leading to frequent accidents and damage to vehicles. Pedestrians also struggle to navigate safely. Immediate and comprehensive repairs are crucial to ensure the safety of commuters.",
+    "priority": "High",
+    "location": "Varanasi"
+  },
+  {
+    "id": "005",
+    "category": "Sanitation",
+    "complaint_text": "Garbage collection in our locality has become highly irregular, leading to massive piles of waste accumulating on street corners. This uncollected refuse is creating an unbearable stench, attracting pests like rats and mosquitoes, and posing a serious health hazard to the entire community. We request immediate and consistent waste disposal services.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "006",
+    "category": "Water",
+    "complaint_text": "Our taps are constantly experiencing very low water pressure, making it incredibly challenging to perform basic tasks such as showering or washing dishes. The water trickles out, making it an exasperating experience and consuming excessive time for simple chores. We kindly request an improvement in the water pressure for our area.",
+    "priority": "Medium",
+    "location": "Meerut"
+  },
+  {
+    "id": "007",
+    "category": "Electricity",
+    "complaint_text": "We've been experiencing frequent voltage fluctuations in our neighborhood, causing significant damage to our electronic appliances, including refrigerators, air conditioners, and televisions. This instability in power supply is leading to substantial financial losses for residents. We urge the electricity department to stabilize the voltage to prevent further damage.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "008",
+    "category": "Healthcare",
+    "complaint_text": "The waiting times for appointments at the local community health center are excessively long, often stretching to several hours or even days. This makes it incredibly difficult for individuals, especially the elderly and those with urgent conditions, to receive timely medical attention. We request an improvement in the appointment scheduling system.",
+    "priority": "Medium",
+    "location": "Bareilly"
+  },
+  {
+    "id": "009",
+    "category": "Roads",
+    "complaint_text": "Many of the streetlights in our residential colony are non-functional, plunging the entire area into darkness after sunset. This creates an unsafe environment, increasing the risk of accidents and petty crimes. We appeal for the immediate repair and maintenance of all streetlights to ensure the safety and security of residents.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "010",
+    "category": "Sanitation",
+    "complaint_text": "The public toilets located in our market area are in an utterly deplorable state due to a severe lack of regular cleaning and maintenance. They are often overflowing, emitting a foul odor, and completely unusable, posing a significant public health hazard. We urge the authorities to ensure proper and consistent cleaning of these essential facilities.",
+    "priority": "High",
+    "location": "Moradabad"
+  },
+  {
+    "id": "011",
+    "category": "Water",
+    "complaint_text": "For the past few days, the water supplied to our homes has been visibly murky and discolored, often with a foul smell. We are highly concerned about the quality of this drinking water and its potential health implications for our families. We request immediate testing and rectification of the water supply to ensure it is safe for consumption.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "012",
+    "category": "Electricity",
+    "complaint_text": "There's an exposed and damaged electrical wire hanging dangerously close to a public pathway near our residence. This poses an extreme risk of electrocution, especially for children and during the upcoming monsoon season. We urge the electricity department to address this life-threatening hazard immediately and make the area safe.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "013",
+    "category": "Healthcare",
+    "complaint_text": "The ambulance services in our city are notoriously slow and unreliable, often taking an unacceptably long time to reach emergency sites. In critical medical situations, every minute counts, and these delays can be life-threatening. We appeal for a significant improvement in the efficiency and response time of our emergency medical services.",
+    "priority": "High",
+    "location": "Faizabad"
+  },
+  {
+    "id": "014",
+    "category": "Roads",
+    "complaint_text": "Due to the absence of a proper drainage system, our main road experiences severe waterlogging even after moderate rainfall. This transforms the road into a virtual pond, making it impassable for vehicles and pedestrians alike, leading to traffic jams and significant inconvenience. An effective drainage solution is urgently required.",
+    "priority": "High",
+    "location": "Jhansi"
+  },
+  {
+    "id": "015",
+    "category": "Sanitation",
+    "complaint_text": "Stray animals, particularly dogs and cattle, are constantly scavenging through overflowing garbage bins in our residential areas, scattering waste everywhere. This creates an unsanitary and chaotic environment, attracting more pests and increasing the risk of disease transmission. Proper waste management and containment are desperately needed.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "016",
+    "category": "Water",
+    "complaint_text": "A persistent and unpleasant odor has been emanating from our water supply for the past few days, making it highly unpleasant for drinking, cooking, and bathing. We suspect an issue with the water source or purification process. We request an immediate investigation and rectification to ensure the water is potable and odor-free.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "017",
+    "category": "Electricity",
+    "complaint_text": "Our area experiences frequent and extended power cuts specifically during peak evening hours, causing significant disruption to household routines, businesses, and essential services. This consistent inconvenience is highly frustrating for residents and businesses. We request better management of power distribution to minimize these interruptions.",
+    "priority": "Medium",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "018",
+    "category": "Healthcare",
+    "complaint_text": "The availability of specialist doctors, particularly pediatricians and gynecologists, is severely limited at our local government clinic. This forces residents to travel long distances and incur significant expenses to access specialized medical consultation. We appeal for the deployment of more specialists to cater to the community's needs.",
+    "priority": "Medium",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "019",
+    "category": "Roads",
+    "complaint_text": "Footpaths along the main market road in our city are heavily encroached upon by street vendors and illegally parked vehicles, forcing pedestrians to walk on the busy main road. This creates a dangerous situation, especially for children and the elderly. Strict enforcement against encroachments is urgently needed.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "020",
+    "category": "Sanitation",
+    "complaint_text": "Many of the open drains in our residential area are completely blocked and overflowing with sewage and stagnant water. This is creating a highly unhygienic environment, emitting foul odors, and serving as a breeding ground for mosquitoes and other disease-carrying insects. Regular and thorough cleaning of these drains is crucial.",
+    "priority": "High",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "021",
+    "category": "Water",
+    "complaint_text": "There's a significant water leakage from a damaged main pipeline running along our street, leading to a substantial wastage of potable water and creating a muddy, slushy mess on the road. This issue has persisted for days despite repeated complaints. We urge immediate repair to prevent further water loss and inconvenience.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "022",
+    "category": "Electricity",
+    "complaint_text": "Our locality is experiencing alarmingly long and unscheduled power cuts, sometimes extending for 6-8 hours without any prior notification. This severely disrupts our daily routines, affects businesses, and makes life unbearable, particularly during extreme weather conditions. We appeal for a more consistent and predictable power supply.",
+    "priority": "High",
+    "location": "Lucknow"
+  },
+  {
+    "id": "023",
+    "category": "Healthcare",
+    "complaint_text": "The administration at the government hospital is largely unresponsive to patient feedback and complaints, leading to a lack of accountability for service deficiencies. Our grievances are often ignored, and there's no clear channel for addressing issues. We request a more robust and transparent system for patient feedback and resolution.",
+    "priority": "Medium",
+    "location": "Agra"
+  },
+  {
+    "id": "024",
+    "category": "Roads",
+    "complaint_text": "Several speed breakers installed on our main roads are poorly designed – either excessively high or without proper warning signs and markings. This poses a significant risk to vehicles, causing damage and unexpected jolts, and also endangers two-wheeler riders. We request their re-design and clear marking for public safety.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "025",
+    "category": "Sanitation",
+    "complaint_text": "Despite municipal guidelines, the practice of waste segregation at source is not being properly enforced in our area. Households are mixing wet and dry waste, which hampers efficient recycling and leads to increased landfill waste. We urge the authorities to implement and monitor waste segregation rules more effectively.",
+    "priority": "Low",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "026",
+    "category": "Water",
+    "complaint_text": "During peak morning hours, when water demand is highest, the water supply in our area is almost negligible, making it impossible to complete essential tasks before starting the day. This consistent issue forces us to store water or rely on expensive alternatives. We request adjustments to the supply timings to meet morning needs.",
+    "priority": "Medium",
+    "location": "Meerut"
+  },
+  {
+    "id": "027",
+    "category": "Electricity",
+    "complaint_text": "We are consistently receiving electricity bills that appear to be abnormally high and disproportionate to our actual consumption. There seems to be an issue with faulty meter readings or incorrect billing calculations, leading to financial burden. We request an immediate audit of our electricity meters and a review of billing practices.",
+    "priority": "Medium",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "028",
+    "category": "Healthcare",
+    "complaint_text": "We have observed instances of rude and uncooperative behavior from some of the hospital staff, particularly at the reception and patient registration counters. This unprofessional conduct adds to the stress of patients and their families, creating an unpleasant environment. Training on patient care and etiquette is strongly recommended.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "029",
+    "category": "Roads",
+    "complaint_text": "The recently constructed roads in our colony lack essential road markings, such as lane dividers, stop lines, and pedestrian crossings. This absence of clear signage is causing confusion among drivers and posing a risk of accidents. We request immediate installation of all necessary road markings for safety.",
+    "priority": "Low",
+    "location": "Aligarh"
+  },
+  {
+    "id": "030",
+    "category": "Sanitation",
+    "complaint_text": "The public dustbins installed in our area are not being emptied with sufficient frequency, leading to them overflowing with garbage and creating unsightly heaps of trash. This not only makes the area look neglected but also attracts pests. We request more regular and efficient waste collection from public bins.",
+    "priority": "Medium",
+    "location": "Moradabad"
+  },
+  {
+    "id": "031",
+    "category": "Water",
+    "complaint_text": "Despite being filtered, the water supplied in our locality still has a very strong chlorine smell, indicating potential issues with the water treatment process. We are concerned about the over-chlorination and its long-term health effects. We request a thorough check of the water purification plant and adherence to safety standards.",
+    "priority": "Medium",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "032",
+    "category": "Electricity",
+    "complaint_text": "There is a continuous loud humming noise emanating from the electricity transformer located very close to our residential building. This constant noise pollution is highly disturbing, especially during nighttime, impacting our sleep and overall peace. We request an inspection of the transformer and measures to mitigate the noise.",
+    "priority": "Low",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "033",
+    "category": "Healthcare",
+    "complaint_text": "The availability of free or subsidized medicines at government dispensaries is extremely limited. Patients are often turned away and advised to purchase expensive medications from private pharmacies, defeating the purpose of affordable public healthcare. We urge for better stock management and consistent availability of essential drugs.",
+    "priority": "High",
+    "location": "Faizabad"
+  },
+  {
+    "id": "034",
+    "category": "Roads",
+    "complaint_text": "The recently constructed roads in our area are already showing signs of significant deterioration, with cracks appearing and surfaces becoming uneven. This indicates substandard construction quality and a lack of proper engineering. We request an immediate quality audit and necessary corrective action to ensure durable roads.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "035",
+    "category": "Sanitation",
+    "complaint_text": "We are observing frequent instances of illegal dumping of construction debris and household waste in vacant plots and undeveloped areas within our vicinity. This unauthorized dumping is creating an eyesore, attracting pests, and polluting the environment. We request strict action and penalties against those engaging in such illegal activities.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "036",
+    "category": "Water",
+    "complaint_text": "Our community is facing severe water scarcity due to the alarming depletion of groundwater levels. We are concerned about the long-term sustainability of our water resources. We urge the authorities to implement sustainable water management practices, promote rainwater harvesting, and curb excessive groundwater extraction.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "037",
+    "category": "Electricity",
+    "complaint_text": "The customer service provided by the electricity department for complaint registration and resolution is consistently poor. Phone calls often go unanswered, and online complaint portals are frequently dysfunctional, leading to frustration and delays in addressing issues. We request a more responsive and efficient customer support system.",
+    "priority": "Medium",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "038",
+    "category": "Healthcare",
+    "complaint_text": "The overall sanitation and hygiene conditions within the government hospital premises are highly unsatisfactory. Toilets are often unclean, wards lack proper disinfection, and the general environment is unhygienic, which is detrimental to patient recovery. We urge immediate and significant improvements in cleanliness standards.",
+    "priority": "High",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "039",
+    "category": "Roads",
+    "complaint_text": "The traffic signals at a major intersection in our city are frequently malfunctioning, either displaying incorrect signals or remaining non-operational for extended periods. This leads to severe traffic congestion, chaos, and a significant increase in the risk of accidents. Urgent repair and synchronization of these signals are paramount.",
+    "priority": "High",
+    "location": "Noida"
+  },
+  {
+    "id": "040",
+    "category": "Sanitation",
+    "complaint_text": "The public parks and green spaces in our locality are not being regularly cleaned or maintained, resulting in scattered litter, overgrown weeds, and an unkempt appearance. This deters residents from utilizing these recreational areas. We request consistent cleaning and maintenance to make these spaces enjoyable for the public.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "041",
+    "category": "Water",
+    "complaint_text": "Our household water meter appears to be faulty, consistently showing abnormally high readings despite no change in our water consumption patterns. This discrepancy is leading to inflated water bills and financial strain. We request an immediate inspection, calibration, or replacement of the water meter to ensure accurate billing.",
+    "priority": "Medium",
+    "location": "Kanpur"
+  },
+  {
+    "id": "042",
+    "category": "Electricity",
+    "complaint_text": "We are experiencing frequent power surges in our area, which are causing our circuit breakers to trip repeatedly and leading to minor damage to sensitive electronic appliances. This indicates instability in the power grid that needs immediate attention. We urge the electricity department to stabilize the power supply to prevent further damage.",
+    "priority": "Medium",
+    "location": "Lucknow"
+  },
+  {
+    "id": "043",
+    "category": "Healthcare",
+    "complaint_text": "Much of the medical equipment at our local government health center is outdated, malfunctioning, or simply unavailable. This severely compromises the accuracy of diagnoses and the effectiveness of treatments, putting patients at risk. We appeal for immediate upgrades and procurement of modern, functional medical equipment.",
+    "priority": "Medium",
+    "location": "Agra"
+  },
+  {
+    "id": "044",
+    "category": "Roads",
+    "complaint_text": "The markings on zebra crossings and pedestrian lanes across various roads in our city have significantly faded or are completely invisible. This makes it extremely dangerous for pedestrians, especially children and the elderly, to cross busy roads. We request immediate repainting and clear demarcation of these essential safety features.",
+    "priority": "Low",
+    "location": "Varanasi"
+  },
+  {
+    "id": "045",
+    "category": "Sanitation",
+    "complaint_text": "There's an open drain near our residential area that is constantly overflowing with sewage water, emitting a repulsive odor and creating a highly unhygienic environment. This poses a severe public health risk, attracting disease-carrying insects and rodents. Immediate cleaning and covering of this drain are absolutely essential.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "046",
+    "category": "Water",
+    "complaint_text": "Many public taps in our neighborhood are consistently leaking, leading to a significant wastage of precious drinking water. This irresponsible leakage, especially during times of water scarcity, is a grave concern. We urge the authorities to undertake prompt repairs of all leaking public taps to conserve water resources.",
+    "priority": "Low",
+    "location": "Meerut"
+  },
+  {
+    "id": "047",
+    "category": "Electricity",
+    "complaint_text": "During major festivals and public holidays, our area consistently experiences excessive load shedding and prolonged power cuts. This severely impacts celebrations, business activities, and daily routines, causing frustration and inconvenience. We request better planning and management of power distribution during such important periods.",
+    "priority": "Low",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "048",
+    "category": "Healthcare",
+    "complaint_text": "The waiting area at the government clinic is consistently overcrowded and lacks adequate seating and ventilation, particularly during peak hours or illness outbreaks. Patients are forced to stand or sit in uncomfortable and potentially unhygienic conditions. We request an expansion of the waiting area and improved facilities.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "049",
+    "category": "Roads",
+    "complaint_text": "Illegal parking of vehicles on the main arterial roads in our city is causing severe traffic congestion, creating bottlenecks and delaying commuters significantly. This unauthorized parking disrupts traffic flow and increases travel times. We urge strict enforcement of parking regulations and designation of proper parking zones.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "050",
+    "category": "Sanitation",
+    "complaint_text": "The municipal sweepers are not regularly cleaning the streets in our locality, leaving accumulated dust, debris, and litter everywhere. This neglect makes our neighborhood look unkempt and unhygienic. We request consistent and thorough street sweeping services to maintain cleanliness in our area.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "051",
+    "category": "Water",
+    "complaint_text": "The water purification system at our community pump appears to be ineffective, as the water still contains visible impurities and occasionally has an off-taste. We are highly concerned about the safety and potability of this water for public consumption. An urgent inspection and overhaul of the purification system are required.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "052",
+    "category": "Electricity",
+    "complaint_text": "There are numerous instances of unauthorized power connections and illegal tapping into electricity lines in our locality. This rampant power theft not only leads to significant revenue loss for the department but also causes overload on the system, affecting the quality and stability of supply for legitimate consumers. Strict action is needed.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "053",
+    "category": "Healthcare",
+    "complaint_text": "The emergency response helpline for medical assistance is frequently busy, unresponsive, or experiencing technical glitches. This critical unreliability causes unacceptable delays in reaching patients during emergencies, where every second counts. We demand a robust and always-available emergency medical helpline system.",
+    "priority": "High",
+    "location": "Faizabad"
+  },
+  {
+    "id": "054",
+    "category": "Roads",
+    "complaint_text": "The absence of designated and clearly marked pedestrian crossings near schools, colleges, and other high-footfall areas poses a severe threat to students and general pedestrians. They are forced to dangerously navigate busy roads, risking accidents. Installation of proper, safe pedestrian crossings is an absolute necessity.",
+    "priority": "High",
+    "location": "Jhansi"
+  },
+  {
+    "id": "055",
+    "category": "Sanitation",
+    "complaint_text": "The solid waste management plant situated near our town is reportedly causing significant environmental pollution, emitting foul odors and potentially releasing harmful fumes into the air. This is severely affecting the health and well-being of residents in surrounding areas. Urgent measures to mitigate pollution and ensure compliance are required.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "056",
+    "category": "Water",
+    "complaint_text": "Illegal borewells are being extensively dug in our area without proper permits or regulation. This rampant and unregulated extraction is rapidly depleting groundwater resources and significantly lowering the water table, threatening future water security for our community. We urge strict enforcement against such illegal activities.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "057",
+    "category": "Electricity",
+    "complaint_text": "Several electricity cables and wires in our neighborhood are old, frayed, and dangerously exposed, particularly hanging low over public pathways and residential areas. This poses an extreme risk of electrocution and fire hazards, especially during adverse weather conditions. Immediate insulation and replacement of these hazardous wires are crucial.",
+    "priority": "High",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "058",
+    "category": "Healthcare",
+    "complaint_text": "The process for obtaining medical reports, discharge summaries, and patient records from the government hospital is excessively cumbersome and time-consuming. Patients or their families often have to spend entire days navigating bureaucratic hurdles. We request a streamlined and more efficient system for accessing medical documentation.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "059",
+    "category": "Roads",
+    "complaint_text": "There is a significant lack of proper street lighting in several interior residential lanes and by-lanes within our colony. This plunges these areas into complete darkness at night, increasing the risk of accidents, theft, and other criminal activities. We appeal for the installation of adequate streetlights in these unlit areas.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "060",
+    "category": "Sanitation",
+    "complaint_text": "The public toilets located at major bus stands, railway stations, and other public places are in an absolutely squalid and unhygienic condition. They are rarely cleaned, often overflowing, and emit unbearable odors, making them completely unusable for the public. Proper and consistent maintenance of these facilities is desperately needed.",
+    "priority": "High",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "061",
+    "category": "Water",
+    "complaint_text": "The quality of drinking water supplied to our apartment complex is highly inconsistent; it sometimes appears cloudy, has a strange taste, or an unpleasant smell. We are deeply concerned about potential contamination and its impact on our health. Regular and thorough testing of the water supply is urgently required to ensure its safety.",
+    "priority": "Medium",
+    "location": "Kanpur"
+  },
+  {
+    "id": "062",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's online complaint portal is frequently inaccessible, experiences technical glitches, or is difficult to navigate, making it a frustrating experience to register or track complaints. This lack of a functional online system hinders effective communication and delays problem resolution. The portal needs significant improvement.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "063",
+    "category": "Healthcare",
+    "complaint_text": "The cafeteria within the government hospital premises offers unhygienic food options, and the overall cleanliness standards are very poor. This is a significant concern for both patients and visitors who rely on these facilities. We request a thorough inspection and immediate improvements in food quality and hygiene practices.",
+    "priority": "Low",
+    "location": "Agra"
+  },
+  {
+    "id": "064",
+    "category": "Roads",
+    "complaint_text": "There are several large, uncovered manholes and open drains on our streets, particularly in residential areas. These pose an extreme hazard to pedestrians, especially children and the elderly, and also to vehicles, risking serious accidents. Immediate covering and securing of all such open manholes are absolutely critical.",
+    "priority": "High",
+    "location": "Varanasi"
+  },
+  {
+    "id": "065",
+    "category": "Sanitation",
+    "complaint_text": "The municipal trucks used for garbage collection are often old, poorly maintained, and frequently leak waste, including liquid refuse, onto the roads as they pass. This creates an unsightly mess, spreads foul odors, and poses a health risk. We request the deployment of newer, more efficient, and leak-proof garbage collection vehicles.",
+    "priority": "Medium",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "066",
+    "category": "Water",
+    "complaint_text": "The water supply schedule in our area is highly erratic and unpredictable. We never know when the water will be available, which makes it incredibly difficult to plan daily activities, manage household chores, or store water. A fixed and reliable water supply schedule is desperately needed for residents.",
+    "priority": "Medium",
+    "location": "Meerut"
+  },
+  {
+    "id": "067",
+    "category": "Electricity",
+    "complaint_text": "The streetlights in our main market area are frequently switched off during business hours or remain non-operational during the evenings. This lack of proper illumination negatively impacts local commerce, compromises public safety, and deters shoppers. We request that all market streetlights are functional during appropriate hours.",
+    "priority": "Low",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "068",
+    "category": "Healthcare",
+    "complaint_text": "There is a severe shortage of essential medical equipment, such as stretchers, wheelchairs, and basic diagnostic tools, in the emergency ward of our government hospital. This often leads to critical delays in patient care and discomfort. More equipment is urgently required to cater to the influx of emergency cases.",
+    "priority": "Medium",
+    "location": "Bareilly"
+  },
+  {
+    "id": "069",
+    "category": "Roads",
+    "complaint_text": "Several critical road junctions in our city lack proper drainage systems, leading to severe waterlogging, even after moderate rainfall. This transforms these junctions into impassable zones, causing significant traffic jams and inconvenience for commuters. Improved and efficient drainage infrastructure is essential at these spots.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "070",
+    "category": "Sanitation",
+    "complaint_text": "Unauthorized street vendors are habitually dumping food waste, plastic, and other garbage directly onto the roadside after their business hours. This creates highly unsanitary hotspots, attracts rodents, and contributes to widespread littering. Strict enforcement and penalties against such illegal dumping practices are urgently needed.",
+    "priority": "High",
+    "location": "Moradabad"
+  },
+  {
+    "id": "071",
+    "category": "Water",
+    "complaint_text": "Our locality faces severe waterlogging during the monsoon season due to inefficient and often clogged storm drains. This results in rainwater accumulating on streets, entering homes, and causing extensive damage to property. A comprehensive overhaul and regular maintenance of the storm drain infrastructure are critical to prevent future flooding.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "072",
+    "category": "Electricity",
+    "complaint_text": "The response time for addressing electricity breakdown complaints in our area is unacceptably long, often extending to several hours or even a full day for minor issues. This prolonged wait causes significant inconvenience and disrupts daily life. We request a faster and more efficient complaint resolution mechanism from the electricity board.",
+    "priority": "Medium",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "073",
+    "category": "Healthcare",
+    "complaint_text": "We have received alarming reports of hospital staff, including nurses and ward boys, demanding bribes or illegal gratification for providing basic services or ensuring faster treatment for patients. This rampant corruption is unacceptable and undermines the public health system. A thorough investigation and stringent action are immediately required.",
+    "priority": "High",
+    "location": "Faizabad"
+  },
+  {
+    "id": "074",
+    "category": "Roads",
+    "complaint_text": "The public transport bus stops in our city are poorly maintained, often lacking proper shelters, seating arrangements, or even clear route information. This makes waiting for buses a highly uncomfortable experience for commuters, especially during harsh weather conditions. Improvements in bus stop infrastructure are long overdue.",
+    "priority": "Low",
+    "location": "Jhansi"
+  },
+  {
+    "id": "075",
+    "category": "Sanitation",
+    "complaint_text": "Despite paying an annual sanitation fee to the local municipality, the services provided in our area are inadequate and inconsistent. Garbage is not collected regularly, and street sweeping is sporadic. We are paying for services that are clearly not being delivered as promised. This discrepancy needs to be addressed and rectified.",
+    "priority": "Medium",
+    "location": "Mathura"
+  },
+  {
+    "id": "076",
+    "category": "Water",
+    "complaint_text": "The water pressure in our household taps is consistently and critically low, making it almost impossible to effectively use showers, operate washing machines, or perform basic cleaning tasks. This ongoing issue has significantly impacted our daily comfort and routine. We request immediate measures to increase and stabilize the water pressure.",
+    "priority": "Medium",
+    "location": "Rampur"
+  },
+  {
+    "id": "077",
+    "category": "Electricity",
+    "complaint_text": "There are numerous instances of faulty and old wiring within our apartment building and surrounding areas. This poses a significant fire hazard and a risk of electrical shocks, endangering the lives of residents. This is a serious safety concern that demands immediate professional inspection, repair, and replacement of all faulty wiring.",
+    "priority": "High",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "078",
+    "category": "Healthcare",
+    "complaint_text": "The availability of clean and safe drinking water within the government hospital premises is severely limited. Patients, their attendants, and staff often struggle to find potable water sources, forcing them to rely on expensive bottled water. Providing access to clean drinking water is a fundamental necessity that needs immediate attention.",
+    "priority": "Medium",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "079",
+    "category": "Roads",
+    "complaint_text": "Roads in our city are frequently dug up for various utility works, such as laying cables or pipelines, but are then left unrepaired or poorly patched for extended periods. This creates significant inconvenience, poses hazards to commuters, and leads to rapid deterioration of the road surface. Proper and timely restoration of roads after utility work is essential.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "080",
+    "category": "Sanitation",
+    "complaint_text": "The public toilets in our town, especially those in high-traffic areas, are maintained in an extremely unsanitary and unhygienic condition. They are rarely cleaned, often lack water, and are unusable due to filth and foul odors. This is a serious public health concern and requires immediate and consistent efforts for proper sanitation and hygiene.",
+    "priority": "High",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "081",
+    "category": "Water",
+    "complaint_text": "Our residential area is experiencing a constant, mild leakage from the main water supply pipe under the road. While not a complete burst, this consistent drip leads to significant water wastage and keeps the road surface perpetually damp, creating a breeding ground for mosquitoes. We request its prompt repair to conserve water.",
+    "priority": "Low",
+    "location": "Kanpur"
+  },
+  {
+    "id": "082",
+    "category": "Electricity",
+    "complaint_text": "We are experiencing a lack of proper street lighting in the park within our locality. This makes it unsafe for evening strolls and recreational activities after dark, as well as being a potential security concern. We request the installation of adequate and functional streetlights in the park for public safety.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "083",
+    "category": "Healthcare",
+    "complaint_text": "The medical consultation rooms at the local government clinic lack adequate privacy, with thin partitions or open doors. This compromises patient confidentiality and makes discussions with doctors uncomfortable. We request improvements to ensure patient privacy during consultations.",
+    "priority": "Low",
+    "location": "Agra"
+  },
+  {
+    "id": "084",
+    "category": "Roads",
+    "complaint_text": "There are numerous instances of roadside eateries and vendors encroaching on the public footpath, forcing pedestrians to walk on the main road. This creates unnecessary obstruction and poses a risk of accidents, especially in busy market areas. Strict action against such encroachments is needed.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "085",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's helpline for sanitation complaints is often unresponsive or takes a very long time to address issues. This makes it difficult for citizens to report problems and get them resolved in a timely manner. We request a more efficient and responsive grievance redressal system.",
+    "priority": "Low",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "086",
+    "category": "Water",
+    "complaint_text": "The water supply in our multi-story apartment building is often insufficient to reach the higher floors, especially during peak hours. Residents on upper floors face acute water shortages, making daily life challenging. We request measures to ensure equitable water distribution to all floors.",
+    "priority": "Medium",
+    "location": "Meerut"
+  },
+  {
+    "id": "087",
+    "category": "Electricity",
+    "complaint_text": "There are several instances where overhead electricity wires are hanging dangerously low in our neighborhood, posing a safety risk, particularly during windy conditions or to tall vehicles. These wires need to be properly tensioned and secured to prevent accidents. Immediate inspection and rectification are required.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "088",
+    "category": "Healthcare",
+    "complaint_text": "The availability of clean and sanitized bedding and linen for patients in the government hospital wards is inconsistent. This poses hygiene risks and compromises patient comfort during their stay. We request a consistent supply of clean and hygienic bedding for all patients.",
+    "priority": "Medium",
+    "location": "Bareilly"
+  },
+  {
+    "id": "089",
+    "category": "Roads",
+    "complaint_text": "The traffic flow on our main road is consistently disrupted by numerous minor road repair works that seem to be ongoing indefinitely. These fragmented repairs cause persistent bottlenecks and inconvenience to commuters. We request better coordination and completion of road works in a more efficient manner.",
+    "priority": "Low",
+    "location": "Aligarh"
+  },
+  {
+    "id": "090",
+    "category": "Sanitation",
+    "complaint_text": "The public garbage bins in our market area are not equipped with proper lids, allowing rain to enter and stray animals to easily access the waste. This exacerbates the mess and creates unhygienic conditions. We request the provision of bins with proper, secure lids.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "091",
+    "category": "Water",
+    "complaint_text": "We've noticed a significant increase in our water bills recently, despite no change in our consumption habits. We suspect an error in the billing calculations or an issue with the meter itself. We request a thorough review of our water bills and a check of the meter for accuracy.",
+    "priority": "Medium",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "092",
+    "category": "Electricity",
+    "complaint_text": "The streetlights along our main road are often switched on late in the evening and switched off too early in the morning, leaving periods of darkness that compromise safety and visibility. We request a more appropriate and consistent timing for the operation of streetlights.",
+    "priority": "Low",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "093",
+    "category": "Healthcare",
+    "complaint_text": "The pharmacy within the government hospital frequently experiences shortages of common and essential medicines, forcing patients to purchase them from expensive private pharmacies outside. This creates an additional financial burden. We request better stock management to ensure consistent availability of medicines.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "094",
+    "category": "Roads",
+    "complaint_text": "There's a significant amount of construction material, such as sand, bricks, and debris, illegally dumped on the roadside in our area. This obstructs traffic flow, creates dust pollution, and poses a hazard to commuters. Strict action against such illegal dumping is needed.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "095",
+    "category": "Sanitation",
+    "complaint_text": "The open vacant plots in our colony have become unofficial dumping grounds for waste, leading to large accumulations of garbage, especially after evenings. This attracts pests and creates an eyesore. We request measures to clean these plots and prevent future dumping.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "096",
+    "category": "Water",
+    "complaint_text": "The water supplied to our building sometimes has a noticeable amount of sediment or particles, making it visibly unclean and raising concerns about its purity. We are hesitant to use it for drinking or cooking. We request an investigation into the water quality and improved filtration.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "097",
+    "category": "Electricity",
+    "complaint_text": "The power supply to our area is frequently interrupted by short, momentary flickers. While not full outages, these constant flickers are annoying and can potentially damage sensitive electronics over time. We request a more stable and flicker-free power supply.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "098",
+    "category": "Healthcare",
+    "complaint_text": "The waiting time for diagnostic tests like blood tests and X-rays at the government hospital is excessively long, causing patients to spend an entire day for a simple procedure. This is highly inconvenient. We request a more efficient system for diagnostic services.",
+    "priority": "Medium",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "099",
+    "category": "Roads",
+    "complaint_text": "There are several broken or damaged signboards on our roads, particularly at crucial intersections. This makes navigation difficult for drivers, especially those unfamiliar with the area, and can lead to confusion and incorrect turns. We request the repair or replacement of damaged signboards.",
+    "priority": "Low",
+    "location": "Noida"
+  },
+  {
+    "id": "100",
+    "category": "Sanitation",
+    "complaint_text": "The municipal solid waste processing plant located outside our city is reportedly operating inefficiently, leading to unsegregated waste and environmental concerns. We are worried about the long-term impact on air and soil quality in surrounding areas. We request improved and environmentally sound waste processing.",
+    "priority": "High",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "101",
+    "category": "Water",
+    "complaint_text": "The community borewell that serves as a supplementary water source for our locality has been out of order for weeks. This is putting additional strain on the main water supply and causing shortages for many households. We request immediate repair and restoration of the community borewell.",
+    "priority": "Medium",
+    "location": "Kanpur"
+  },
+  {
+    "id": "102",
+    "category": "Electricity",
+    "complaint_text": "Our area is experiencing inconsistent electricity supply, with frequent drops in voltage that affect the performance of heavy appliances like air conditioners and water heaters. This fluctuation is concerning and can lead to damage over time. We request a stable and consistent voltage supply.",
+    "priority": "Medium",
+    "location": "Lucknow"
+  },
+  {
+    "id": "103",
+    "category": "Healthcare",
+    "complaint_text": "The availability of specialized medical care for chronic diseases like diabetes and hypertension is limited at the local government health center. Patients often have to travel to larger cities for proper management. We request the provision of more specialized chronic care services.",
+    "priority": "Medium",
+    "location": "Agra"
+  },
+  {
+    "id": "104",
+    "category": "Roads",
+    "complaint_text": "Several newly planted trees along our main road are obstructing visibility at critical turns and intersections, posing a safety hazard for drivers. While greening is good, proper trimming and placement are essential to ensure road safety. We request their pruning to improve visibility.",
+    "priority": "Low",
+    "location": "Varanasi"
+  },
+  {
+    "id": "105",
+    "category": "Sanitation",
+    "complaint_text": "The frequency of street sweeping in our main commercial area is insufficient, leading to accumulation of litter and debris, especially after market hours. This negatively impacts the aesthetics of the area and attracts pests. We request more frequent and thorough street sweeping.",
+    "priority": "Low",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "106",
+    "category": "Water",
+    "complaint_text": "There's a significant amount of rust or sediment visibly coming out with the water from our taps, particularly during the initial flow. This indicates old and corroded pipes, which is a health concern. We request an assessment of the pipeline infrastructure and necessary replacements.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "107",
+    "category": "Electricity",
+    "complaint_text": "The electricity meter reader visits our premises very irregularly, leading to estimated bills that are often inaccurate and fluctuate widely. This makes it difficult to monitor consumption and budget effectively. We request regular and accurate meter readings by assigned personnel.",
+    "priority": "Low",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "108",
+    "category": "Healthcare",
+    "complaint_text": "The general cleanliness and hygiene of the patient waiting areas, including benches and floors, are often poor at the government clinic. This creates an uninviting and potentially unhealthy environment for patients. We request more rigorous cleaning schedules for these areas.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "109",
+    "category": "Roads",
+    "complaint_text": "The absence of proper markings or delineations for cycle lanes, where they exist, makes it difficult for cyclists to navigate safely and often leads to encroachment by motor vehicles. Clear and distinct cycle lane markings are needed for cyclist safety.",
+    "priority": "Low",
+    "location": "Aligarh"
+  },
+  {
+    "id": "110",
+    "category": "Sanitation",
+    "complaint_text": "Unauthorized vendors are frequently disposing of their waste, including vegetable peels and food scraps, directly into the open drains near the market area. This leads to blockages and foul odors. We request stricter enforcement against such practices and awareness campaigns.",
+    "priority": "Medium",
+    "location": "Moradabad"
+  },
+  {
+    "id": "111",
+    "category": "Water",
+    "complaint_text": "During periods of high demand, particularly in summers, the water supply to our locality is often completely shut off for extended periods, sometimes without prior notice. This leaves residents without basic water access during critical times. We request more equitable water distribution and proper notification for shutdowns.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "112",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of streetlights in our neighborhood that remain lit throughout the day, leading to significant energy waste and increased electricity consumption. We request proper maintenance and timely switching mechanisms to ensure lights are on only when needed.",
+    "priority": "Low",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "113",
+    "category": "Healthcare",
+    "complaint_text": "The availability of trained medical technicians for operating specialized diagnostic equipment (like ultrasound or ECG machines) is limited at the government hospital, leading to delays in getting tests done. We request an increase in trained personnel to ensure timely diagnostic services.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "114",
+    "category": "Roads",
+    "complaint_text": "The roadside shoulders along our main highway are poorly maintained and uneven, making it difficult for vehicles to pull over safely in case of breakdowns or emergencies. Proper grading and maintenance of road shoulders are essential for safety.",
+    "priority": "Low",
+    "location": "Jhansi"
+  },
+  {
+    "id": "115",
+    "category": "Sanitation",
+    "complaint_text": "The waste collection workers in our area often miss collecting garbage from certain houses or parts of the street, leading to accumulation of waste. This inconsistency in service is frustrating. We request consistent and complete garbage collection from all designated areas.",
+    "priority": "Low",
+    "location": "Mathura"
+  },
+  {
+    "id": "116",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area often has a slightly yellowish tint, which raises concerns about potential contaminants or issues with the water source. While it doesn't always smell bad, the color is worrying. We request regular water quality checks and transparency on results.",
+    "priority": "Medium",
+    "location": "Rampur"
+  },
+  {
+    "id": "117",
+    "category": "Electricity",
+    "complaint_text": "We've noticed a significant increase in the time it takes for the electricity department to respond to and resolve complaints related to minor power issues, such as faulty meters or individual connection problems. The prolonged delays are inconvenient. We request improved response times for such complaints.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "118",
+    "category": "Healthcare",
+    "complaint_text": "The patient registration process at the government hospital is often chaotic and inefficient, with long queues and manual handling, leading to significant delays for patients. We request the implementation of a more streamlined and perhaps digitized registration system.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "119",
+    "category": "Roads",
+    "complaint_text": "The absence of proper reflective signage or cat-eyes on newly constructed roads, especially in less illuminated areas, makes them difficult to navigate at night. This increases the risk of accidents. We request the installation of proper reflective markers for night visibility.",
+    "priority": "Low",
+    "location": "Noida"
+  },
+  {
+    "id": "120",
+    "category": "Sanitation",
+    "complaint_text": "The public awareness campaigns regarding waste segregation and proper disposal methods are insufficient in our city. Many residents are unaware or unwilling to follow guidelines, leading to mixed waste. We request more robust and engaging public awareness initiatives for better waste management.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "121",
+    "category": "Water",
+    "complaint_text": "The water supply timings in our area are very restrictive, with water only being available for a few hours in the morning and evening. This limited window makes it difficult to manage daily water needs, especially for larger families. We request an extension of water supply hours.",
+    "priority": "Medium",
+    "location": "Kanpur"
+  },
+  {
+    "id": "122",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of electricity poles leaning precariously in our neighborhood, posing a risk of falling and causing power disruption or injury. These poles appear old and unstable. We request an immediate inspection and reinforcement or replacement of these poles.",
+    "priority": "High",
+    "location": "Lucknow"
+  },
+  {
+    "id": "123",
+    "category": "Healthcare",
+    "complaint_text": "The behavioral attitude of some support staff, such as ward boys and cleaning staff, at the government hospital is sometimes uncooperative and rude towards patients and their families. This adds to patient distress. We request training and monitoring to ensure respectful conduct.",
+    "priority": "Low",
+    "location": "Agra"
+  },
+  {
+    "id": "124",
+    "category": "Roads",
+    "complaint_text": "The quality of resurfacing work on our roads is often substandard, with uneven patches and loose gravel appearing soon after repairs. This indicates poor quality control and leads to rapid deterioration. We request better supervision and quality assurance for road repair projects.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "125",
+    "category": "Sanitation",
+    "complaint_text": "The municipal council has designated certain areas as 'no dumping zones', but these rules are rarely enforced, leading to continued illegal waste disposal. This undermines efforts to maintain cleanliness. We request stricter enforcement and penalties for violations in these zones.",
+    "priority": "Medium",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "126",
+    "category": "Water",
+    "complaint_text": "The water supply in our locality sometimes contains a strong metallic taste, which is concerning as it could indicate the presence of undesirable minerals or contaminants. We are hesitant to consume this water. We request regular testing for heavy metals and appropriate treatment.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "127",
+    "category": "Electricity",
+    "complaint_text": "The electricity supply to agricultural areas in our district is often irregular and insufficient, severely impacting irrigation and crop yields for farmers. This inconsistent power affects their livelihoods. We request a more stable and adequate electricity supply for agricultural purposes.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "128",
+    "category": "Healthcare",
+    "complaint_text": "The waiting time to consult a doctor, even for general check-ups, at the government clinic is consistently very long. This forces patients to wait for several hours, causing inconvenience and sometimes deterring them from seeking timely medical advice. We request measures to reduce consultation waiting times.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "129",
+    "category": "Roads",
+    "complaint_text": "There's a complete absence of footpaths on certain busy roads near residential areas, forcing pedestrians to walk directly on the vehicle lanes. This creates a dangerous situation and increases the risk of accidents. We request the construction of safe footpaths in these areas.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "130",
+    "category": "Sanitation",
+    "complaint_text": "The public waste bins in our area are often poorly positioned or too few in number, making it inconvenient for residents to dispose of their waste properly. This leads to roadside littering. We request a review of bin placement and an increase in their availability.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "131",
+    "category": "Water",
+    "complaint_text": "The water filters at our community water points are frequently uncleaned or appear to be malfunctioning, leading to concerns about the purity of the water dispensed. We are hesitant to use these points due to hygiene concerns. We request regular maintenance and cleaning of community water filters.",
+    "priority": "Medium",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "132",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's call center for emergencies or urgent complaints is often difficult to reach, with long wait times or unanswered calls. This delays critical response in emergency situations like downed lines. We request an improvement in the responsiveness of the emergency helpline.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "133",
+    "category": "Healthcare",
+    "complaint_text": "The patient referral system from local clinics to larger hospitals is often inefficient, causing delays in transferring critical patients or securing specialist appointments. This impacts timely advanced care. We request a more streamlined and effective patient referral system.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "134",
+    "category": "Roads",
+    "complaint_text": "The traffic management at a major intersection in our town is highly ineffective, leading to frequent bottlenecks and long queues, especially during peak hours. This causes significant delays for commuters. We request a review of traffic signal timings and flow management.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "135",
+    "category": "Sanitation",
+    "complaint_text": "The practice of open defecation is still prevalent in certain outlying areas of our city, especially near informal settlements. This poses a significant health hazard and undermines sanitation efforts. We request targeted interventions and provision of more public toilets in these areas.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "136",
+    "category": "Water",
+    "complaint_text": "The water supply to our multi-storey building often loses pressure significantly during high demand periods, making it impossible for residents on upper floors to receive adequate water. This has been a persistent issue causing daily inconvenience. We request measures to ensure consistent pressure throughout the building.",
+    "priority": "Medium",
+    "location": "Rampur"
+  },
+  {
+    "id": "137",
+    "category": "Electricity",
+    "complaint_text": "We are experiencing a noticeable and frequent dimming of lights and appliances in our household, indicating consistent low voltage. This affects the performance of electronics and is concerning for their longevity. We request an investigation into the voltage supply and necessary rectification.",
+    "priority": "Medium",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "138",
+    "category": "Healthcare",
+    "complaint_text": "The medical records system at the government hospital is largely manual and disorganized, making it difficult to retrieve past patient information quickly or accurately. This leads to delays and potential errors in treatment. We request the implementation of a digitized and organized medical records system.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "139",
+    "category": "Roads",
+    "complaint_text": "There are several instances of missing or damaged crash barriers along busy highways and elevated roads, posing a severe safety risk, especially at curves or near drop-offs. The absence of these barriers could lead to fatal accidents. We request immediate installation or repair of all necessary crash barriers.",
+    "priority": "High",
+    "location": "Noida"
+  },
+  {
+    "id": "140",
+    "category": "Sanitation",
+    "complaint_text": "The municipal solid waste collection is often delayed during weekends or public holidays, leading to accumulated garbage and unhygienic conditions in residential areas. We request consistent and scheduled waste collection, even during holidays, to maintain cleanliness.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "141",
+    "category": "Water",
+    "complaint_text": "Our taps are constantly dripping due to faulty or worn-out tap mechanisms, leading to significant water wastage throughout the day. While individual drips seem small, collectively they amount to a lot. We request a municipal program to fix or replace faulty public taps in the area.",
+    "priority": "Low",
+    "location": "Kanpur"
+  },
+  {
+    "id": "142",
+    "category": "Electricity",
+    "complaint_text": "The maintenance of electricity supply lines passing through trees in our area is insufficient, leading to frequent short circuits and power disruptions during windy or rainy weather. Tree branches are often seen touching the wires. We request regular trimming of trees near power lines.",
+    "priority": "Medium",
+    "location": "Lucknow"
+  },
+  {
+    "id": "143",
+    "category": "Healthcare",
+    "complaint_text": "The cleanliness of the general wards and shared spaces within the government hospital is inconsistent, with visible dust and uncleaned surfaces. This can be detrimental to patient recovery and overall hygiene. We request more rigorous and frequent cleaning protocols for all hospital areas.",
+    "priority": "Medium",
+    "location": "Agra"
+  },
+  {
+    "id": "144",
+    "category": "Roads",
+    "complaint_text": "Several speed cameras or traffic enforcement cameras in our city appear to be non-functional or are obscured by overgrown foliage, rendering them ineffective in regulating traffic and ensuring safety. We request their repair and proper maintenance for effective traffic control.",
+    "priority": "Low",
+    "location": "Varanasi"
+  },
+  {
+    "id": "145",
+    "category": "Sanitation",
+    "complaint_text": "The frequency of septic tank cleaning services provided by the municipality is insufficient, leading to overflowing tanks and unsanitary conditions, particularly in older neighborhoods. This poses serious health risks. We request a more regular and efficient septic tank cleaning schedule.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "146",
+    "category": "Water",
+    "complaint_text": "Our area experiences inconsistent water pressure throughout the day; it's decent sometimes and then drops significantly without warning. This variability makes it difficult to manage water-dependent tasks. We request a stable and consistent water pressure supply.",
+    "priority": "Medium",
+    "location": "Meerut"
+  },
+  {
+    "id": "147",
+    "category": "Electricity",
+    "complaint_text": "There are several unapproved or temporary electricity connections being used in our locality for commercial purposes, which seem to bypass meters and overload the system. This leads to power fluctuations for regular consumers. We request an investigation into illegal connections and appropriate action.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "148",
+    "category": "Healthcare",
+    "complaint_text": "The general awareness about free health camps or government healthcare schemes is very low in our community, especially among vulnerable populations. Many eligible individuals are unaware of the benefits they can avail. We request better public outreach and awareness campaigns.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "149",
+    "category": "Roads",
+    "complaint_text": "The lack of proper pedestrian safety measures, such as bollards or barriers, at public gathering places like markets and religious sites, puts pedestrians at risk from vehicular traffic. We request the implementation of such safety measures in high-footfall areas.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "150",
+    "category": "Sanitation",
+    "complaint_text": "The public garbage bins in our commercial areas are frequently left overflowing for extended periods, especially during weekends. This attracts rodents and contributes to unsanitary conditions. We request more frequent emptying of commercial area garbage bins.",
+    "priority": "Medium",
+    "location": "Moradabad"
+  },
+  {
+    "id": "151",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area occasionally has a strong taste of iron, indicating a high mineral content or issues with the pipelines. This affects the palatability of the water and can stain fixtures. We request water testing for mineral content and appropriate treatment.",
+    "priority": "Medium",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "152",
+    "category": "Electricity",
+    "complaint_text": "Many of the streetlights in our residential area are old and provide very dim illumination, making the streets feel unsafe and poorly lit at night. We request the replacement of these outdated lights with brighter, more efficient LED lights for better visibility and safety.",
+    "priority": "Low",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "153",
+    "category": "Healthcare",
+    "complaint_text": "The availability of clean and well-maintained toilets for patients and visitors within the government hospital premises is often poor. Unhygienic washrooms create discomfort and can spread infections. We request immediate and consistent improvement in toilet cleanliness and maintenance.",
+    "priority": "High",
+    "location": "Faizabad"
+  },
+  {
+    "id": "154",
+    "category": "Roads",
+    "complaint_text": "There are several instances of illegal encroachments by shops and temporary structures onto the main road and footpaths, narrowing the usable road space and causing traffic bottlenecks. Strict action is needed against these persistent encroachments to clear public pathways.",
+    "priority": "High",
+    "location": "Jhansi"
+  },
+  {
+    "id": "155",
+    "category": "Sanitation",
+    "complaint_text": "The frequency of cleaning and desilting of roadside drains is insufficient in our area, leading to blockages and overflow during heavy rains. This causes waterlogging and unhygienic conditions. We request a more systematic and regular drain cleaning schedule.",
+    "priority": "Medium",
+    "location": "Mathura"
+  },
+  {
+    "id": "156",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the excessive drawing of water by commercial establishments and industries in the vicinity. This is impacting residential supply. We request strict monitoring and regulation of industrial water usage to ensure fair distribution.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "157",
+    "category": "Electricity",
+    "complaint_text": "The response time for emergency electricity issues, such as downed power lines or widespread outages, is often critically slow, putting public safety at risk. Faster emergency response protocols and adequate manpower are desperately needed. This needs immediate attention.",
+    "priority": "High",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "158",
+    "category": "Healthcare",
+    "complaint_text": "The counseling and support services for patients with chronic illnesses or mental health issues are severely lacking at the government healthcare facilities. This leaves many patients without crucial holistic care. We request the establishment of dedicated counseling services.",
+    "priority": "Medium",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "159",
+    "category": "Roads",
+    "complaint_text": "The absence of proper lane markings on busy multi-lane roads leads to chaotic traffic flow, frequent lane changes, and increased risk of accidents. Clear and consistent lane markings are essential for organized and safe traffic movement. We request their immediate installation.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "160",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's grievance redressal system for sanitation issues is often opaque, with no clear tracking of complaints or estimated resolution times. This makes it difficult for citizens to follow up on their issues. We request a more transparent and trackable complaint system.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "161",
+    "category": "Water",
+    "complaint_text": "Our household water supply is frequently interrupted by bursts of air from the taps, indicating potential issues with the water supply line or pumping system. This causes inconvenience and concern about the stability of the supply. We request an inspection of the water network.",
+    "priority": "Low",
+    "location": "Kanpur"
+  },
+  {
+    "id": "162",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's monthly billing cycle is inconsistent, with bills sometimes arriving very late or too early, making it difficult to manage payments effectively. A fixed and predictable billing cycle is needed for consumer convenience.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "163",
+    "category": "Healthcare",
+    "complaint_text": "The waiting areas in the outpatient department (OPD) of the government hospital are often unhygienic and lack sufficient seating, forcing patients to stand for long durations. This adds to patient discomfort. We request more seating and better cleanliness in OPD waiting areas.",
+    "priority": "Low",
+    "location": "Agra"
+  },
+  {
+    "id": "164",
+    "category": "Roads",
+    "complaint_text": "There are several instances of damaged or missing road barriers along the central median of busy roads, increasing the risk of head-on collisions due to vehicles veering into opposing lanes. Immediate repair or replacement of these barriers is critical for safety.",
+    "priority": "High",
+    "location": "Varanasi"
+  },
+  {
+    "id": "165",
+    "category": "Sanitation",
+    "complaint_text": "The municipal solid waste collection trucks often arrive very late in the day or at irregular times, leading to garbage being left out on the streets for longer periods, attracting pests and creating foul odors. A more consistent and timely collection schedule is needed.",
+    "priority": "Medium",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "166",
+    "category": "Water",
+    "complaint_text": "The water supply in our area sometimes has a noticeable chemical smell, which raises concerns about the purity and safety of the water for consumption. We are hesitant to use it due to this strong odor. We request immediate testing and investigation into the water treatment process.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "167",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of dilapidated and rusty electricity poles in our neighborhood that appear to be on the verge of collapsing. This poses a significant danger to residents and could cause major power disruptions. Immediate replacement or reinforcement of these poles is necessary.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "168",
+    "category": "Healthcare",
+    "complaint_text": "The availability of essential medical supplies like bandages, syringes, and basic disinfectants is sometimes inconsistent at the government clinic, leading to delays in treatment or patients being asked to purchase them externally. Better stock management is required.",
+    "priority": "Medium",
+    "location": "Bareilly"
+  },
+  {
+    "id": "169",
+    "category": "Roads",
+    "complaint_text": "Many of the zebra crossings in our city are placed at unsafe locations, such as immediately after a blind turn or too close to a traffic signal, increasing the risk of accidents. We request a review of zebra crossing placements for optimal pedestrian safety.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "170",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to educate citizens about proper waste disposal, segregation, and the importance of cleanliness are insufficient. Many residents are still unaware or negligent. We request more effective and widespread public awareness campaigns on sanitation.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "171",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area often carries a noticeable amount of silt or sand, particularly after pipeline repairs or during heavy rains. This affects the quality of water and clogs filters. We request better flushing of pipelines after maintenance and improved filtration at source.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "172",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of temporary or makeshift electricity connections used by street vendors or small shops, which are often unsafe and overload local transformers. This leads to frequent power outages and voltage issues for residential consumers. Strict action against such illegal connections is needed.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "173",
+    "category": "Healthcare",
+    "complaint_text": "The overall transparency regarding hospital charges, especially for common procedures or diagnostic tests, is very low at the government hospital. Patients are often not fully informed of costs beforehand, leading to confusion. We request clear and upfront communication of all applicable charges.",
+    "priority": "Low",
+    "location": "Faizabad"
+  },
+  {
+    "id": "174",
+    "category": "Roads",
+    "complaint_text": "The newly installed traffic signals at a critical junction in our town are poorly synchronized, leading to inefficient traffic flow and increased waiting times. This creates unnecessary congestion. We request proper synchronization of traffic signals for smoother traffic movement.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "175",
+    "category": "Sanitation",
+    "complaint_text": "The collection of bulk waste, such as discarded furniture, appliances, or construction debris, is inefficient and often delayed by the municipal services. This leads to large items accumulating on roadsides for long periods. We request a more streamlined and responsive bulk waste collection service.",
+    "priority": "Medium",
+    "location": "Mathura"
+  },
+  {
+    "id": "176",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the rapid development of new housing colonies without corresponding expansion of water infrastructure. The existing supply is being stretched thin. We request a comprehensive plan for water infrastructure development aligned with urban growth.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "177",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for new connection applications or changes to existing connections is cumbersome and involves significant bureaucratic delays. This frustrates citizens and businesses. We request a more streamlined and efficient application process.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "178",
+    "category": "Healthcare",
+    "complaint_text": "The waiting areas for various departments within the government hospital are often poorly ventilated, leading to stuffiness and discomfort, especially during hot weather or when crowded. Improved ventilation systems are needed for patient and visitor comfort.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "179",
+    "category": "Roads",
+    "complaint_text": "The absence of proper dedicated bus stops or designated pick-up/drop-off points on busy roads leads to buses stopping haphazardly, causing traffic jams and safety risks for passengers. We request the creation of clearly marked and safe bus stop zones.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "180",
+    "category": "Sanitation",
+    "complaint_text": "The public parks and open spaces in our city are frequently marred by litter, uncleaned facilities, and a general lack of maintenance. This makes them unappealing for recreational use and reflects poorly on civic cleanliness. We request more rigorous and consistent cleaning of public parks.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "181",
+    "category": "Water",
+    "complaint_text": "The water supply in our taps sometimes contains small, visible black particles, which raises concerns about the internal cleanliness of the pipelines or the water source itself. We are worried about consuming such water. We request an investigation and flushing of the water lines.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "182",
+    "category": "Electricity",
+    "complaint_text": "We are experiencing frequent instances of unexplained surges in electricity that momentarily brighten lights before returning to normal. While not causing immediate damage, these surges are concerning and indicate instability in the power grid. We request an investigation into these power fluctuations.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "183",
+    "category": "Healthcare",
+    "complaint_text": "The emergency ward at the government hospital is often overcrowded and understaffed, leading to long waiting times for critical patients. This compromises timely medical attention in emergencies. We request an increase in staff and resources for the emergency department.",
+    "priority": "High",
+    "location": "Agra"
+  },
+  {
+    "id": "184",
+    "category": "Roads",
+    "complaint_text": "There are several instances of large, hazardous debris, such as broken glass, discarded construction materials, or sharp metal pieces, lying on the roads. This poses a significant risk of punctures and accidents. We request immediate and regular road sweeping to clear such hazards.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "185",
+    "category": "Sanitation",
+    "complaint_text": "The local municipality's waste management system lacks adequate provisions for the collection and disposal of hazardous household waste, such as batteries, old electronics, and chemical cleaners. This often leads to improper disposal and environmental contamination. We request a dedicated collection system for hazardous waste.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "186",
+    "category": "Water",
+    "complaint_text": "The water supply in our area is sometimes accompanied by a gurgling sound from the pipes, suggesting air in the lines or inconsistent flow. This can indicate issues with the pumping system or pipeline integrity. We request an inspection of the water network to identify the cause.",
+    "priority": "Low",
+    "location": "Meerut"
+  },
+  {
+    "id": "187",
+    "category": "Electricity",
+    "complaint_text": "The payment counters for electricity bills are often understaffed, leading to very long queues and significant waiting times, especially during the last few days of the billing cycle. This causes inconvenience for consumers. We request an increase in staff or more digital payment options.",
+    "priority": "Low",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "188",
+    "category": "Healthcare",
+    "complaint_text": "The general infrastructure and amenities at the government healthcare facilities, such as seating, lighting, and ventilation, are often outdated and inadequate. This compromises the comfort and experience of patients and visitors. We request upgrades to the basic infrastructure.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "189",
+    "category": "Roads",
+    "complaint_text": "The absence of proper turn lanes at busy intersections leads to traffic backups and confusion, as vehicles trying to turn block straight-through traffic. This contributes significantly to congestion. We request the construction of dedicated turn lanes where feasible.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "190",
+    "category": "Sanitation",
+    "complaint_text": "The public garbage bins in our area are frequently damaged or broken, with missing lids or holes, rendering them ineffective for containing waste. This leads to spillage and attracts pests. We request the repair or replacement of all damaged public bins.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "191",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area sometimes has a faint but distinct taste of chemicals, which is concerning as it could indicate residual treatment chemicals or contamination. We are worried about the safety of this water. We request immediate testing and investigation into the water quality.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "192",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of abandoned or non-functional electricity poles or old transformers still standing in public spaces, posing a safety hazard and an eyesore. These obsolete structures need to be safely removed to clear public areas. We request their prompt removal.",
+    "priority": "Low",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "193",
+    "category": "Healthcare",
+    "complaint_text": "The availability of medical specialists, such as cardiologists or neurologists, for follow-up consultations is often limited at the government hospital, leading to long waits or reliance on private clinics. We request more consistent availability of specialist follow-up appointments.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "194",
+    "category": "Roads",
+    "complaint_text": "The quality of repair work on potholes is often poor, with temporary patches that quickly deteriorate, leading to recurring potholes in the same spots. This indicates inefficient use of resources. We request more durable and permanent pothole repairs.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "195",
+    "category": "Sanitation",
+    "complaint_text": "The public education regarding proper disposal of medical waste (e.g., used bandages, syringes from home care) is insufficient, leading to improper disposal in general waste. This poses health risks. We request better guidance and collection systems for household medical waste.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "196",
+    "category": "Water",
+    "complaint_text": "The water supply in our area is often interrupted by sudden and unpredictable fluctuations in pressure, sometimes going from high to very low in minutes. This inconsistency makes it difficult to use appliances and causes inconvenience. We request a more stable pressure.",
+    "priority": "Medium",
+    "location": "Rampur"
+  },
+  {
+    "id": "197",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's system for notifying consumers about scheduled power cuts or maintenance work is often inadequate or non-existent. This leaves residents unprepared for outages. We request a more reliable and timely notification system for scheduled power disruptions.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "198",
+    "category": "Healthcare",
+    "complaint_text": "The overall cleanliness and hygiene of the patient restrooms within the government hospital are often poor, with visible dirt, foul odors, and lack of supplies. This compromises patient dignity and health. We request immediate and consistent improvements in restroom hygiene.",
+    "priority": "High",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "199",
+    "category": "Roads",
+    "complaint_text": "Many of the pedestrian signals at crosswalks are either non-functional or have very short crossing times, making it difficult for the elderly or those with disabilities to cross safely. We request repair of signals and adequate crossing times for all pedestrians.",
+    "priority": "High",
+    "location": "Noida"
+  },
+  {
+    "id": "200",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to curb open burning of garbage in certain areas are insufficient, leading to air pollution and health hazards for residents. This practice is detrimental to the environment. We request stricter enforcement against open burning and alternative disposal methods.",
+    "priority": "High",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "201",
+    "category": "Water",
+    "complaint_text": "The water supply in our locality sometimes has a cloudy appearance, especially when first turned on, which raises concerns about sediment or air in the pipelines. While it usually clears, it's worrying. We request an inspection of the water network for underlying issues.",
+    "priority": "Medium",
+    "location": "Kanpur"
+  },
+  {
+    "id": "202",
+    "category": "Electricity",
+    "complaint_text": "The streetlights in our residential society are frequently out of order, leading to dimly lit or dark streets at night. This poses a security risk and makes walking unsafe. We request a proactive maintenance schedule for streetlights to ensure they are always functional.",
+    "priority": "Medium",
+    "location": "Lucknow"
+  },
+  {
+    "id": "203",
+    "category": "Healthcare",
+    "complaint_text": "The process for obtaining medical certificates or disability certificates from the government hospital is often lengthy and bureaucratic, causing significant inconvenience and delays for individuals. We request a more streamlined and efficient process for these essential documents.",
+    "priority": "Low",
+    "location": "Agra"
+  },
+  {
+    "id": "204",
+    "category": "Roads",
+    "complaint_text": "There are several instances of overgrown trees or bushes obstructing road signs and traffic signals, making them difficult to see and potentially leading to accidents. We request regular trimming of foliage to ensure clear visibility of all road signs.",
+    "priority": "Low",
+    "location": "Varanasi"
+  },
+  {
+    "id": "205",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's waste disposal sites are often poorly managed, leading to open burning of waste and overflow of garbage, affecting surrounding areas. This poses significant environmental and health risks. We request better management and scientific disposal methods for waste sites.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "206",
+    "category": "Water",
+    "complaint_text": "Our taps are constantly making rattling noises when water flows, suggesting air trapped in the pipes or loose connections. This noise is annoying and raises concerns about the integrity of the plumbing system. We request an inspection to diagnose and fix the issue.",
+    "priority": "Low",
+    "location": "Meerut"
+  },
+  {
+    "id": "207",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's estimated bills are frequently inaccurate and much higher than our actual consumption, despite submitting meter readings. This leads to overcharging and financial strain. We request more accurate billing practices and a mechanism for bill corrections.",
+    "priority": "Medium",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "208",
+    "category": "Healthcare",
+    "complaint_text": "The supply of clean bedsheets and blankets for patients in the government hospital wards is inconsistent, with some patients receiving unclean or torn linen. This compromises hygiene and comfort. We request a consistent supply of clean and well-maintained bedding.",
+    "priority": "Medium",
+    "location": "Bareilly"
+  },
+  {
+    "id": "209",
+    "category": "Roads",
+    "complaint_text": "The lack of proper pedestrian crossings at busy intersections near schools or markets forces people to cross dangerously. This is a significant safety concern, especially for children. We request the urgent installation of clearly marked pedestrian crossings.",
+    "priority": "High",
+    "location": "Aligarh"
+  },
+  {
+    "id": "210",
+    "category": "Sanitation",
+    "complaint_text": "The municipal sweepers often leave behind piles of swept garbage on the roadside for extended periods before collection, which then gets scattered by wind or animals. This defeats the purpose of sweeping. We request immediate collection of swept garbage.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "211",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area frequently contains a strong smell of algae or organic matter, especially during certain seasons. This indicates issues with the water source treatment. We request a thorough investigation and improvement in water treatment processes.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "212",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of low-hanging or sagging electricity wires in our neighborhood, posing a risk of contact for tall vehicles or individuals, especially during windy conditions. These wires need to be properly tensioned and raised for public safety. Immediate action is required.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "213",
+    "category": "Healthcare",
+    "complaint_text": "The availability of general physicians for routine check-ups and common ailments is limited at the local government clinic, leading to long queues and patients seeking private care. We request an increase in the number of general practitioners available.",
+    "priority": "Low",
+    "location": "Faizabad"
+  },
+  {
+    "id": "214",
+    "category": "Roads",
+    "complaint_text": "The roadside drains in our area are often left uncovered or with broken covers, posing a significant hazard to pedestrians and small vehicles. This can lead to falls or accidents. We request the immediate repair and covering of all open roadside drains.",
+    "priority": "High",
+    "location": "Jhansi"
+  },
+  {
+    "id": "215",
+    "category": "Sanitation",
+    "complaint_text": "The process for reporting sanitation complaints to the municipal corporation is often cumbersome, requiring multiple calls or visits. A more simplified and accessible complaint registration system is needed for citizens to report issues easily.",
+    "priority": "Low",
+    "location": "Mathura"
+  },
+  {
+    "id": "216",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to insufficient capacity of the local water reservoir or supply network, especially during peak demand periods. The existing infrastructure is unable to meet the growing needs. We request an assessment and upgrade of the water supply infrastructure.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "217",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's online bill payment portal is frequently plagued by technical issues or server downtime, making it difficult to pay bills online. This forces consumers to visit physical payment centers. We request a more stable and reliable online payment system.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "218",
+    "category": "Healthcare",
+    "complaint_text": "The patient discharge process from the government hospital is often lengthy and disorganized, causing delays and frustration for patients eager to go home. We request a more streamlined and efficient patient discharge procedure.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "219",
+    "category": "Roads",
+    "complaint_text": "The quality of public bus stops and shelters in our city is often poor, lacking basic amenities like proper seating, lighting, or protection from rain/sun. This makes waiting uncomfortable for commuters. We request an upgrade of public transport infrastructure.",
+    "priority": "Low",
+    "location": "Noida"
+  },
+  {
+    "id": "220",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to control stray animal population (which often contributes to scattering garbage) are insufficient. A holistic approach including better waste management and animal control is needed. We request more effective measures to manage stray animals.",
+    "priority": "Medium",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "221",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area often has a visible oily film on its surface, which raises concerns about potential industrial discharge or contamination. We are hesitant to use this water for any purpose. We request immediate investigation into the water source and quality.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "222",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of open junction boxes or exposed wiring on electricity poles in our neighborhood. These pose a serious electrocution hazard, especially for children. Immediate covering and securing of all exposed electrical components are essential for public safety.",
+    "priority": "High",
+    "location": "Lucknow"
+  },
+  {
+    "id": "223",
+    "category": "Healthcare",
+    "complaint_text": "The availability of clean and sanitized restrooms for staff within the government hospital is often poor, which can impact staff morale and hygiene. Proper facilities for staff are crucial for effective service delivery. We request improvement in staff restroom facilities.",
+    "priority": "Low",
+    "location": "Agra"
+  },
+  {
+    "id": "224",
+    "category": "Roads",
+    "complaint_text": "The absence of proper cautionary signs or speed limit indicators on sharp turns or accident-prone areas on our roads increases the risk of collisions. Clear and visible signage is crucial for driver awareness and safety. We request installation of such signs.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "225",
+    "category": "Sanitation",
+    "complaint_text": "The frequency of emptying public street dustbins is insufficient, leading to rapid overflowing and scattering of garbage, especially in commercial and residential areas. This creates an unhygienic environment. We request more frequent emptying of public dustbins.",
+    "priority": "Medium",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "226",
+    "category": "Water",
+    "complaint_text": "The water supplied to our locality sometimes contains small visible insect larvae or other biological contaminants, which is extremely concerning and indicates serious issues with filtration or storage. We are terrified to use this water. Immediate inspection and thorough cleaning of the water system are required.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "227",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's official website or app for grievance redressal is often clunky, outdated, and difficult to navigate. This hinders citizens from effectively reporting issues or accessing information. We request an updated and user-friendly digital platform.",
+    "priority": "Low",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "228",
+    "category": "Healthcare",
+    "complaint_text": "The availability of basic medical supplies for first aid (like bandages, antiseptic, pain relievers) is inconsistent at the government clinic's reception or general ward. This leads to delays in minor treatments. We request a consistent stock of essential first aid supplies.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "229",
+    "category": "Roads",
+    "complaint_text": "Many of the pedestrian footpaths in our area are uneven, broken, or have sudden drops, making them hazardous for walking, especially for the elderly or children. This increases the risk of trips and falls. We request proper repair and leveling of all footpaths.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "230",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's response to complaints about illegal dumping or burning of waste in public spaces is often slow or inadequate, leading to continued environmental degradation. We request a more rapid and effective response system for such serious violations.",
+    "priority": "High",
+    "location": "Moradabad"
+  },
+  {
+    "id": "231",
+    "category": "Water",
+    "complaint_text": "The water supply in our area sometimes has a noticeable milky or cloudy appearance due to air bubbles or fine particles, which while not immediately harmful, is concerning for long-term purity. We request an investigation into the cause and improvement in water clarity.",
+    "priority": "Low",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "232",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of trees or foliage growing too close to overhead electricity lines in our neighborhood, posing a risk of contact during storms and causing power outages. Regular tree trimming near power lines is needed to prevent such incidents.",
+    "priority": "Medium",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "233",
+    "category": "Healthcare",
+    "complaint_text": "The general waiting environment at the government hospital, including seating and lighting, is often insufficient for the large number of patients. This leads to discomfort and prolonged waits. We request upgrades to the waiting areas for better patient experience.",
+    "priority": "Low",
+    "location": "Faizabad"
+  },
+  {
+    "id": "234",
+    "category": "Roads",
+    "complaint_text": "The absence of proper pedestrian refuges or central islands at wide, busy road crossings makes it very difficult and dangerous for pedestrians to cross in a single go. We request the installation of safe pedestrian refuges for staged crossings.",
+    "priority": "High",
+    "location": "Jhansi"
+  },
+  {
+    "id": "235",
+    "category": "Sanitation",
+    "complaint_text": "The collection of dry waste, such as plastics and paper, is inconsistent in our area, leading to accumulation in households. This hinders recycling efforts and contributes to overall waste. We request a more regular and reliable dry waste collection schedule.",
+    "priority": "Low",
+    "location": "Mathura"
+  },
+  {
+    "id": "236",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the rapid drying up of local wells and traditional water bodies, impacting groundwater recharge. This is a critical long-term issue. We request governmental support for water conservation projects like pond rejuvenation and rainwater harvesting.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "237",
+    "category": "Electricity",
+    "complaint_text": "The process for new electricity meter installation after applying for a connection is often excessively delayed, causing inconvenience and forcing reliance on temporary, often unsafe, solutions. We request a faster and more streamlined meter installation process.",
+    "priority": "Medium",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "238",
+    "category": "Healthcare",
+    "complaint_text": "The response time of hospital staff to patient calls or requests in the wards is often slow, leading to delays in assistance or basic care. This can be distressing for patients. We request improved responsiveness of ward staff to patient needs.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "239",
+    "category": "Roads",
+    "complaint_text": "There are numerous instances of illegal street parking by private vehicles, especially near commercial areas and residential streets. This significantly narrows the road, causes traffic jams, and hinders emergency vehicle access. Strict enforcement against illegal parking is needed.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "240",
+    "category": "Sanitation",
+    "complaint_text": "The public awareness about the negative impacts of littering and improper waste disposal is insufficient in our city. Many citizens continue to throw waste indiscriminately. We request more impactful public education campaigns on civic cleanliness.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "241",
+    "category": "Water",
+    "complaint_text": "Our taps sometimes release water with a distinct metallic odor, indicating potential issues with old or corroding pipelines. This is concerning for health and also stains fixtures. We request an assessment of the pipeline network and replacement of problematic sections.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "242",
+    "category": "Electricity",
+    "complaint_text": "There are frequent instances of flickering or intermittent power supply in our area, causing inconvenience and potentially shortening the lifespan of electronic appliances. This instability in power is problematic. We request a more consistent and stable electricity supply.",
+    "priority": "Medium",
+    "location": "Lucknow"
+  },
+  {
+    "id": "243",
+    "category": "Healthcare",
+    "complaint_text": "The provision of free or subsidized diagnostic tests (like blood work, X-rays) at the government hospital is often limited, forcing patients to opt for expensive private labs. This impacts affordability of healthcare. We request wider availability of free diagnostic services.",
+    "priority": "High",
+    "location": "Agra"
+  },
+  {
+    "id": "244",
+    "category": "Roads",
+    "complaint_text": "The general condition of the shoulders of urban roads in our city is poor, with uneven surfaces and accumulated debris. This makes it unsafe for cyclists and pedestrians, and impractical for emergency stops. We request proper maintenance and cleaning of road shoulders.",
+    "priority": "Low",
+    "location": "Varanasi"
+  },
+  {
+    "id": "245",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to provide adequate public toilets in various parts of the city are insufficient, especially in commercial areas and slums. This leads to open defecation and urination. We request the construction of more accessible and well-maintained public toilets.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "246",
+    "category": "Water",
+    "complaint_text": "Our area experiences inconsistent water pressure throughout the week; some days it's strong, others it's barely a trickle. This unpredictability makes managing water usage difficult. We request a more consistent and reliable water pressure at all times.",
+    "priority": "Medium",
+    "location": "Meerut"
+  },
+  {
+    "id": "247",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's meter reading personnel are often irregular in their visits, leading to estimated bills that are frequently inaccurate and higher than actual consumption. We request timely and accurate meter readings by dedicated personnel.",
+    "priority": "Low",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "248",
+    "category": "Healthcare",
+    "complaint_text": "The cleanliness and hygiene of the patient admission and discharge areas in the government hospital are often lacking, creating a poor first and last impression. These areas need rigorous cleaning protocols to ensure a positive patient experience. We request improved cleanliness in these areas.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "249",
+    "category": "Roads",
+    "complaint_text": "There are several instances of damaged or missing covers for utility boxes or manholes on footpaths, posing a tripping hazard for pedestrians. These open holes are dangerous, especially for children and the elderly. We request immediate repair and covering of all such open utility points.",
+    "priority": "High",
+    "location": "Aligarh"
+  },
+  {
+    "id": "250",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's response time to complaints about sewage overflow or blockages in drains is often very slow, leading to prolonged exposure to unsanitary conditions. Faster emergency response for sewage-related issues is critically needed. We request immediate attention to sewage overflows.",
+    "priority": "High",
+    "location": "Moradabad"
+  },
+  {
+    "id": "251",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area often has a noticeable yellowish or brownish tint, especially after pipeline work or during rainfall, raising concerns about sediment and purity. We are hesitant to use discolored water. We request better filtration and flushing of water lines.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "252",
+    "category": "Electricity",
+    "complaint_text": "There are numerous instances of electricity poles or transformers located very close to residential buildings or public pathways, posing a safety risk, especially to children playing nearby. These need to be safely relocated or properly barricaded. We request safety measures around electrical installations.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "253",
+    "category": "Healthcare",
+    "complaint_text": "The general attitude of security personnel at the government hospital can sometimes be unhelpful or rude towards patients and visitors, adding to their stress. Professional and courteous behavior from all staff, including security, is expected. We request training for security staff on patient interaction.",
+    "priority": "Low",
+    "location": "Faizabad"
+  },
+  {
+    "id": "254",
+    "category": "Roads",
+    "complaint_text": "The absence of proper reflective road studs (cat-eyes) on highways and major roads makes driving particularly dangerous at night, especially during rain or fog. This reduces visibility and increases accident risk. We request the installation of adequate reflective road studs.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "255",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to recycle collected waste are insufficient, with much of the segregated waste still ending up in landfills. Better infrastructure and processes for actual recycling are needed. We request improved and more effective waste recycling programs.",
+    "priority": "Medium",
+    "location": "Mathura"
+  },
+  {
+    "id": "256",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to contamination of local wells or borewells, rendering them unusable. This reduces available water sources and puts pressure on municipal supply. We request an investigation into contamination and measures to purify affected sources.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "257",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's call center for general inquiries or non-emergency complaints is often understaffed, leading to long hold times or unanswered calls. This makes it difficult for consumers to get their questions answered. We request improved staffing for the inquiry helpline.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "258",
+    "category": "Healthcare",
+    "complaint_text": "The patient cafeteria at the government hospital lacks sufficient seating and often has poor hygiene, making it an unpleasant place for patients and visitors to eat. Improved seating capacity and rigorous cleaning are needed for the cafeteria area.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "259",
+    "category": "Roads",
+    "complaint_text": "The quality of traffic signals at several intersections is poor, with dim lights or inconsistent flashing, making them difficult to see during the day or in bright sunlight. This compromises traffic control. We request better quality and brighter traffic signal lights.",
+    "priority": "Low",
+    "location": "Noida"
+  },
+  {
+    "id": "260",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to promote composting of organic waste at the household or community level are insufficient. Much organic waste still goes to landfills, which can be composted. We request more robust initiatives to promote organic waste composting.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "261",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area frequently has a visible soapy or foamy residue, raising concerns about detergent contamination or issues with the treatment process. We are hesitant to use such water. We request immediate investigation and rectification of the water source.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "262",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of old, dilapidated electricity meters in our neighborhood that are difficult to read accurately or appear to be faulty. This leads to billing disputes and concerns about proper charging. We request the replacement of outdated or faulty meters.",
+    "priority": "Medium",
+    "location": "Lucknow"
+  },
+  {
+    "id": "263",
+    "category": "Healthcare",
+    "complaint_text": "The ambulance service helpline is often congested or takes a long time to connect, delaying crucial emergency response. In critical situations, every second counts. We request an improvement in the capacity and responsiveness of the ambulance helpline.",
+    "priority": "High",
+    "location": "Agra"
+  },
+  {
+    "id": "264",
+    "category": "Roads",
+    "complaint_text": "The roadside berms along our main road are often overgrown with tall grass and weeds, obstructing visibility and creating hiding spots for stray animals. This can be dangerous for drivers. We request regular trimming and maintenance of roadside berms.",
+    "priority": "Low",
+    "location": "Varanasi"
+  },
+  {
+    "id": "265",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to control rodents and pests in areas with accumulated garbage are insufficient. These pests pose health risks and are a nuisance. We request more effective pest control measures in conjunction with waste management.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "266",
+    "category": "Water",
+    "complaint_text": "Our taps sometimes release water with a foul, sewage-like odor, particularly after supply interruptions. This is highly alarming and indicates potential cross-contamination or issues with the water network. Immediate investigation and disinfection are required.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "267",
+    "category": "Electricity",
+    "complaint_text": "The billing statements for electricity are often complex and difficult to understand, with unclear charges and confusing tariffs. This makes it challenging for consumers to verify their bills. We request simplified and transparent electricity billing statements.",
+    "priority": "Low",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "268",
+    "category": "Healthcare",
+    "complaint_text": "The general behavior of some administrative staff at the government hospital is sometimes unhelpful or dismissive towards patients and their families, adding to their frustration. Professional and empathetic conduct from all administrative staff is expected. We request staff training.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "269",
+    "category": "Roads",
+    "complaint_text": "There are several instances of illegal advertisements or banners placed on road signs and traffic lights, obscuring important information and creating distractions for drivers. We request strict action against illegal advertising on road infrastructure.",
+    "priority": "Low",
+    "location": "Aligarh"
+  },
+  {
+    "id": "270",
+    "category": "Sanitation",
+    "complaint_text": "The process for resolving complaints related to public sanitation issues, such as overflowing drains or uncleaned areas, is often slow and lacks proper follow-up, leading to repeated grievances. A more efficient and transparent complaint resolution mechanism is needed.",
+    "priority": "Medium",
+    "location": "Moradabad"
+  },
+  {
+    "id": "271",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area frequently has a very strong chlorine smell, much stronger than usual, raising concerns about over-chlorination and potential health effects. We request an investigation into the chlorine levels and adherence to safe limits.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "272",
+    "category": "Electricity",
+    "complaint_text": "The streetlights in some parts of our city are often out of order for extended periods, leading to dark and unsafe streets at night. This increases the risk of accidents and crime. We request a more proactive approach to streetlight maintenance and repair.",
+    "priority": "Medium",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "273",
+    "category": "Healthcare",
+    "complaint_text": "The patient waiting areas in some departments of the government hospital are unhygienic and lack proper ventilation, making them uncomfortable and potentially unhealthy spaces. We request improvements in cleanliness and air circulation in all waiting areas.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "274",
+    "category": "Roads",
+    "complaint_text": "The quality of road markings for speed limits, school zones, or no-parking areas is poor, with faded paint or unclear symbols. This reduces their effectiveness in regulating traffic and ensuring safety. We request clear and durable road markings.",
+    "priority": "Low",
+    "location": "Jhansi"
+  },
+  {
+    "id": "275",
+    "category": "Sanitation",
+    "complaint_text": "The availability of public garbage bins in residential areas is insufficient, leading to residents resorting to throwing waste on street corners or vacant plots. More strategically placed and numerous public bins are needed to encourage proper waste disposal.",
+    "priority": "Low",
+    "location": "Mathura"
+  },
+  {
+    "id": "276",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to inefficient water distribution systems, leading to some areas receiving abundant water while others suffer severe shortages. Equitable distribution based on population needs is crucial. We request a review of the water distribution network.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "277",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's mobile application for complaints and payments is often buggy, crashes frequently, or has a non-intuitive interface, making it difficult to use. A more robust and user-friendly mobile application is needed for consumer convenience.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "278",
+    "category": "Healthcare",
+    "complaint_text": "The availability of specialized services for elderly patients, such as geriatric care or dedicated facilities, is limited at the government hospital. Elderly patients often have unique needs that are not adequately met. We request more focused care for the elderly.",
+    "priority": "Medium",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "279",
+    "category": "Roads",
+    "complaint_text": "The quality of repair work on pedestrian pathways and footpaths is often substandard, leading to uneven surfaces and recurrent damage soon after repairs. This impacts pedestrian safety and comfort. We request better quality and durable repairs for footpaths.",
+    "priority": "Low",
+    "location": "Noida"
+  },
+  {
+    "id": "280",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to clean and maintain public drains in commercial areas are insufficient, leading to frequent blockages and foul odors. This impacts businesses and public health. We request more rigorous and frequent cleaning of commercial area drains.",
+    "priority": "Medium",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "281",
+    "category": "Water",
+    "complaint_text": "The water supply in our area sometimes has a noticeable earthy or muddy taste, especially after heavy rains, indicating sediment or soil contamination. We are concerned about consuming such water. We request improved filtration and water quality monitoring after rainfall.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "282",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of overgrown trees and vegetation obscuring streetlights in our neighborhood, reducing their effectiveness and leaving areas dark at night. Regular trimming of trees obstructing streetlights is needed for proper illumination.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "283",
+    "category": "Healthcare",
+    "complaint_text": "The availability of clean and sanitized common areas like corridors and staircases within the government hospital is inconsistent, with visible dirt and dust. This compromises overall hygiene and can contribute to infections. We request more rigorous cleaning protocols for common areas.",
+    "priority": "Low",
+    "location": "Agra"
+  },
+  {
+    "id": "284",
+    "category": "Roads",
+    "complaint_text": "The absence of proper designated parking areas near commercial complexes or public markets leads to illegal parking on roadsides, causing traffic congestion and inconvenience. We request the creation of sufficient and clearly marked public parking facilities.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "285",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to manage and process construction and demolition waste are inadequate, leading to illegal dumping of debris in vacant plots and on roadsides. This creates environmental hazards and eyesores. We request better management of construction waste.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "286",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the rapid decline in the water table, making existing borewells less effective. This indicates unsustainable water usage. We request the implementation of long-term water conservation and groundwater recharge initiatives.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "287",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for addressing consumer complaints about faulty meters or billing errors is often slow and bureaucratic, causing undue stress and financial burden. We request a more expedited and consumer-friendly process for resolving meter and billing disputes.",
+    "priority": "Medium",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "288",
+    "category": "Healthcare",
+    "complaint_text": "The waiting time for obtaining specialist consultations at the government hospital is excessively long, often requiring patients to wait for weeks or months. This delays crucial medical care. We request measures to reduce specialist consultation waiting times and increase availability.",
+    "priority": "High",
+    "location": "Bareilly"
+  },
+  {
+    "id": "289",
+    "category": "Roads",
+    "complaint_text": "The absence of proper reflective road markings or painted lines on roads, particularly at night, makes it difficult for drivers to maintain lanes and increases the risk of head-on collisions. Clear and durable road markings are essential for night-time safety.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "290",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's response to complaints about illegal waste burning in open areas is often inadequate, leading to recurring incidents and air pollution. Stricter enforcement and rapid response are needed to curb this harmful practice. We request immediate action against illegal waste burning.",
+    "priority": "High",
+    "location": "Moradabad"
+  },
+  {
+    "id": "291",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area frequently has a noticeable greenish tint, suggesting algae growth or issues with water treatment. This is concerning for health and aesthetic reasons. We request an investigation into the cause and improved water purification.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "292",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of dilapidated and unsecured transformer enclosures in our neighborhood, posing a risk of access to unauthorized individuals or animals. Proper and secure fencing around all transformers is crucial for public safety. We request immediate securing of transformer enclosures.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "293",
+    "category": "Healthcare",
+    "complaint_text": "The general communication and coordination between different departments within the government hospital (e.g., OPD and diagnostics) are often poor, leading to delays and confusion for patients. Improved inter-departmental communication is needed for efficient patient care.",
+    "priority": "Low",
+    "location": "Faizabad"
+  },
+  {
+    "id": "294",
+    "category": "Roads",
+    "complaint_text": "The quality of rumble strips installed on roads to slow down traffic is poor, with some being too high or uneven, causing discomfort and potential damage to vehicles. Better designed and consistently installed rumble strips are needed. We request their re-evaluation and improvement.",
+    "priority": "Low",
+    "location": "Jhansi"
+  },
+  {
+    "id": "295",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to encourage home composting or community composting for organic waste are insufficient. Most organic waste still goes to landfills, which can be avoided. We request more robust initiatives and support for composting programs.",
+    "priority": "Low",
+    "location": "Mathura"
+  },
+  {
+    "id": "296",
+    "category": "Water",
+    "complaint_text": "Our taps sometimes release water with a noticeable chlorine taste, even stronger than the usual smell, suggesting over-chlorination. This is concerning for taste and potential health effects. We request monitoring of chlorine levels and optimization of water treatment.",
+    "priority": "Medium",
+    "location": "Rampur"
+  },
+  {
+    "id": "297",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's customer service call center often has long wait times, and calls are frequently disconnected, making it frustrating to get assistance. We request increased staffing and improved call handling for better customer support.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "298",
+    "category": "Healthcare",
+    "complaint_text": "The general hygiene and cleanliness of the hospital premises, including common areas, are sometimes inconsistent, with visible litter or uncleaned surfaces. This can contribute to the spread of infections. We request a more rigorous and consistent cleaning schedule for the entire hospital.",
+    "priority": "Medium",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "299",
+    "category": "Roads",
+    "complaint_text": "There are several instances of damaged or completely missing median barriers on busy highways, posing a severe risk of head-on collisions due to vehicles crossing into oncoming traffic. Immediate repair or installation of robust median barriers is critical for safety.",
+    "priority": "High",
+    "location": "Noida"
+  },
+  {
+    "id": "300",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to provide adequate and well-maintained public restrooms in various parts of the city are insufficient, especially in commercial areas and tourist spots. This leads to open urination and unhygienic conditions. We request more public restrooms.",
+    "priority": "High",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "301",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area sometimes has a noticeable sediment or particulate matter, especially after pipeline repairs, making it visibly dirty and raising concerns about purity. We are hesitant to consume this water. We request improved flushing of pipelines after maintenance.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "302",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's online complaint tracking system is often unreliable, with status updates being inaccurate or delayed, making it difficult to monitor the progress of reported issues. We request a more robust and accurate online complaint tracking system.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "303",
+    "category": "Healthcare",
+    "complaint_text": "The availability of specialist doctors for pediatric care at the government hospital is often limited, leading to long waiting times or reliance on private clinics for children's health issues. We request an increase in the number of pediatric specialists.",
+    "priority": "Medium",
+    "location": "Agra"
+  },
+  {
+    "id": "304",
+    "category": "Roads",
+    "complaint_text": "The quality of road lighting in our city is inconsistent, with some areas brightly lit while others are very dim or completely dark. This impacts safety and visibility unevenly. We request a consistent standard of road lighting across the city.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "305",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to control illegal dumping of household waste in open plots or natural areas are insufficient, leading to environmental pollution and unsightly piles of garbage. Stricter enforcement and penalties are needed against such illegal practices.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "306",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to significant leakage from public taps and pipelines in various parts of the neighborhood. This constant wastage is unacceptable given the general shortage. We request an urgent and comprehensive drive to repair all leaking public water points.",
+    "priority": "Medium",
+    "location": "Meerut"
+  },
+  {
+    "id": "307",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of electricity wires hanging dangerously low or touching building walls in our neighborhood, posing an electrocution risk, especially during rain or to children. These wires need to be properly secured and insulated. Immediate action is required for safety.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "308",
+    "category": "Healthcare",
+    "complaint_text": "The availability of emergency medical staff (doctors, nurses) in the emergency ward is often insufficient during peak hours, leading to long waiting times for critical patients. This compromises timely care. We request increased staffing in the emergency department, especially during busy periods.",
+    "priority": "High",
+    "location": "Bareilly"
+  },
+  {
+    "id": "309",
+    "category": "Roads",
+    "complaint_text": "The lack of proper signage or information about upcoming road closures or diversions causes significant inconvenience and confusion for drivers. Timely and clear communication of such changes is essential. We request a better system for road closure notifications.",
+    "priority": "Low",
+    "location": "Aligarh"
+  },
+  {
+    "id": "310",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to conduct regular cleanliness drives in public spaces and residential areas are inconsistent, leading to accumulation of litter and poor hygiene. More frequent and systematic cleanliness drives are needed across the city.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "311",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area frequently has a visible reddish-brown tint, suggesting the presence of rust from old pipes or iron contaminants. This is concerning for health and stains fixtures. We request an assessment of the pipeline network and improved water treatment.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "312",
+    "category": "Electricity",
+    "complaint_text": "The response time for repairing faulty streetlights is often very slow, leading to dark and unsafe streets for extended periods. A more efficient and proactive streetlight repair mechanism is needed. We request faster repair services for streetlights.",
+    "priority": "Low",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "313",
+    "category": "Healthcare",
+    "complaint_text": "The availability of free or subsidized vaccinations for common diseases is inconsistent at the government healthcare facilities, leading to delays in immunization schedules for children. We request better stock management and consistent availability of all vaccines.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "314",
+    "category": "Roads",
+    "complaint_text": "The presence of stray cattle and other animals on busy roads poses a significant hazard to drivers and pedestrians, leading to accidents. More effective measures for animal control and relocation are needed. We request stricter enforcement against stray animals on roads.",
+    "priority": "High",
+    "location": "Jhansi"
+  },
+  {
+    "id": "315",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to manage and process e-waste (electronic waste) are insufficient, leading to improper disposal and environmental contamination. A dedicated and accessible system for e-waste collection and recycling is urgently needed. We request better e-waste management.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "316",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the rapid expansion of commercial establishments and large apartment complexes, straining the existing water infrastructure. This impacts residential supply. We request a review of water allocation and infrastructure upgrades for new developments.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "317",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for applying for new connections or meter upgrades is often complex and requires excessive documentation, leading to delays and frustration. A simplified and more transparent application process is needed. We request streamlined procedures.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "318",
+    "category": "Healthcare",
+    "complaint_text": "The general appearance and cleanliness of the hospital staff, including doctors and nurses, is sometimes inconsistent, with untidy uniforms or poor personal hygiene. Maintaining professional appearance is crucial for patient trust. We request adherence to hygiene standards for staff.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "319",
+    "category": "Roads",
+    "complaint_text": "The absence of proper designated lanes for two-wheelers on busy roads increases the risk of accidents and traffic chaos. Dedicated and clearly marked two-wheeler lanes are needed for safety. We request the creation of such dedicated lanes.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "320",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to clear illegal hoardings and posters that contribute to visual pollution and litter are insufficient. These often end up as street garbage. We request stricter enforcement against illegal advertising and timely removal of such materials.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "321",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area often carries a strong, unpleasant chemical smell, like bleach or industrial cleaners, raising serious concerns about contamination. We are unwilling to use this water. Immediate investigation and purification of the water supply are critical.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "322",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of loose or damaged overhead electricity wires in our neighborhood, posing a risk of short circuits or falling. These wires need to be properly secured and repaired to prevent accidents. Immediate attention to loose power lines is necessary.",
+    "priority": "High",
+    "location": "Lucknow"
+  },
+  {
+    "id": "323",
+    "category": "Healthcare",
+    "complaint_text": "The availability of blood for transfusions at the government hospital is sometimes inconsistent, leading to delays in critical procedures for patients. Regular blood donation drives and better blood bank management are needed. We request consistent blood availability.",
+    "priority": "High",
+    "location": "Agra"
+  },
+  {
+    "id": "324",
+    "category": "Roads",
+    "complaint_text": "The quality of speed breakers installed on local roads is inconsistent, with some being too abrupt or poorly sloped, causing discomfort and potential damage to vehicles. Better designed and consistently built speed breakers are needed. We request their review and improvement.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "325",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to provide adequate facilities for the collection and disposal of bio-medical waste from small clinics or laboratories are insufficient, leading to improper disposal. A safe and regulated system for bio-medical waste is essential. We request better bio-medical waste management.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "326",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the excessive number of illegal water tankers operating in the area, drawing large quantities of water from unregulated sources. This impacts the general supply. We request strict action against illegal water tanker operations.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "327",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's staff for field repairs and maintenance are often insufficient, leading to prolonged power outages and delays in resolving issues. More manpower is needed for efficient fault resolution. We request increased field staff for quicker repairs.",
+    "priority": "Medium",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "328",
+    "category": "Healthcare",
+    "complaint_text": "The process for obtaining medical reimbursement from government schemes is often cumbersome, requiring excessive paperwork and leading to long delays. This discourages beneficiaries. We request a more streamlined and efficient reimbursement process for medical schemes.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "329",
+    "category": "Roads",
+    "complaint_text": "The absence of proper and clearly marked parking zones in commercial areas leads to chaotic parking on roadsides, causing significant traffic congestion and inconvenience. We request the designation and strict enforcement of proper parking zones.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "330",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's waste segregation at source is often not consistently followed by residents, leading to mixed waste being collected. This hampers recycling efforts. We request stronger enforcement and awareness campaigns for waste segregation.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "331",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area sometimes has a noticeable greyish tint, which raises concerns about sediment, dirt, or even sewage contamination. We are highly concerned about the safety of this water. Immediate investigation and thorough cleaning of the water system are required.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "332",
+    "category": "Electricity",
+    "complaint_text": "There are frequent power outages specifically during examination periods, severely impacting students' ability to study and prepare. Consistent power supply is crucial during such critical times. We request special consideration for uninterrupted power during examinations.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "333",
+    "category": "Healthcare",
+    "complaint_text": "The cleanliness of the children's ward or pediatric section within the government hospital is sometimes inconsistent, posing risks to young patients. Rigorous cleaning protocols are essential for children's health. We request improved cleanliness in pediatric areas.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "334",
+    "category": "Roads",
+    "complaint_text": "The absence of proper pedestrian overpasses or underpasses at very busy junctions makes it extremely dangerous for pedestrians to cross, especially during peak traffic. Safe crossing infrastructure is critically needed. We request the construction of pedestrian over/underpasses where feasible.",
+    "priority": "High",
+    "location": "Jhansi"
+  },
+  {
+    "id": "335",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to collect and dispose of large, non-segregatable items (like construction debris or furniture) are inefficient, leading to these items being dumped illegally. A more accessible and systematic collection system for bulk waste is needed. We request better bulk waste disposal.",
+    "priority": "Medium",
+    "location": "Mathura"
+  },
+  {
+    "id": "336",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to contamination of the main water supply source, making it unusable and forcing reliance on alternative, often insufficient, sources. Immediate identification and remediation of the contamination source are crucial. We request urgent water source purification.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "337",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's grievance redressal system often lacks transparency, with no clear timelines for resolution or consistent communication about complaint progress. A more transparent and accountable system is needed. We request better communication on complaint status.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "338",
+    "category": "Healthcare",
+    "complaint_text": "The availability of essential medical equipment for basic first aid (like blood pressure monitors, thermometers) in the general patient areas is sometimes limited or non-functional. This hinders immediate assessments. We request better provision and maintenance of basic medical equipment.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "339",
+    "category": "Roads",
+    "complaint_text": "The absence of proper and clearly marked parking spaces for two-wheelers in commercial areas leads to chaotic parking and obstruction of footpaths. Dedicated and sufficient two-wheeler parking is needed. We request designated two-wheeler parking zones.",
+    "priority": "Low",
+    "location": "Noida"
+  },
+  {
+    "id": "340",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to educate vendors and shopkeepers about proper waste disposal and cleanliness in market areas are insufficient. This leads to littering and poor hygiene in commercial zones. We request targeted awareness campaigns for businesses.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "341",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area often has a visible greenish slime or residue, suggesting algae growth within the pipelines or storage tanks. This is unhygienic and raises concerns about purity. We request thorough cleaning and disinfection of the water supply network.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "342",
+    "category": "Electricity",
+    "complaint_text": "There are frequent instances of sparks or small fires from electricity poles or transformers, indicating faulty wiring or overloading. This poses a significant fire hazard and risk of electrocution. Immediate inspection and repair of such faulty installations are critical.",
+    "priority": "High",
+    "location": "Lucknow"
+  },
+  {
+    "id": "343",
+    "category": "Healthcare",
+    "complaint_text": "The waiting time for scheduled surgeries or medical procedures at the government hospital is often excessively long, leading to worsening conditions for patients. A more efficient scheduling system is needed to reduce these delays. We request reduced waiting times for surgeries.",
+    "priority": "High",
+    "location": "Agra"
+  },
+  {
+    "id": "344",
+    "category": "Roads",
+    "complaint_text": "The quality of drainage systems along newly constructed roads is often poor, leading to waterlogging during even moderate rainfall. This damages the road surface and creates inconvenience. We request better-designed and maintained drainage along new roads.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "345",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to control rodents and other pests in public garbage collection points and transfer stations are insufficient, leading to infestations and health risks. More rigorous pest control measures are needed. We request effective pest control at waste sites.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "346",
+    "category": "Water",
+    "complaint_text": "Our taps sometimes release water with a noticeable 'rotten egg' smell, indicating hydrogen sulfide gas, which is a sign of bacterial contamination in the water source or pipes. This is highly concerning for health. Immediate investigation and disinfection of the water system are required.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "347",
+    "category": "Electricity",
+    "complaint_text": "The availability of emergency contact numbers for electricity outages or hazards is often unclear or difficult to find. A clearly publicized and easily accessible emergency helpline is crucial for public safety. We request prominent display of emergency contact information.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "348",
+    "category": "Healthcare",
+    "complaint_text": "The medical records system at the government hospital is still largely paper-based and inefficient, leading to delays in retrieving patient histories and potential loss of important data. A digitized and integrated medical records system is urgently needed.",
+    "priority": "Medium",
+    "location": "Bareilly"
+  },
+  {
+    "id": "349",
+    "category": "Roads",
+    "complaint_text": "There are several instances of missing or damaged road barriers along bridges or elevated sections, posing a severe safety risk to vehicles and pedestrians. Immediate repair or installation of robust barriers is crucial for safety on these structures. We request immediate attention to bridge safety.",
+    "priority": "High",
+    "location": "Aligarh"
+  },
+  {
+    "id": "350",
+    "category": "Sanitation",
+    "complaint_text": "The general awareness among public regarding the health impacts of improper waste disposal and open defecation is insufficient. More targeted and impactful public health education campaigns are needed. We request increased public awareness on sanitation and health.",
+    "priority": "Low",
+    "location": "Moradabad"
+  },
+  {
+    "id": "351",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area often has a visible film on its surface, indicating potential oil or chemical contamination from nearby industrial areas. We are gravely concerned about the safety of this water. Immediate investigation and advanced water treatment are required.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "352",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for tree trimming near power lines is often reactive rather than proactive, leading to frequent power outages during storms due to falling branches. A more consistent and proactive tree trimming schedule is needed. We request regular tree maintenance near power lines.",
+    "priority": "Medium",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "353",
+    "category": "Healthcare",
+    "complaint_text": "The availability of specialized equipment for disabled patients, such as accessible restrooms or specialized wheelchairs, is limited at the government hospital. This creates barriers to access for disabled individuals. We request improved accessibility and specialized equipment for disabled patients.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "354",
+    "category": "Roads",
+    "complaint_text": "The quality of road maintenance in our city is inconsistent, with some roads frequently repaired while others are left in disrepair for extended periods. A more equitable and systematic road maintenance plan is needed. We request a comprehensive road maintenance schedule.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "355",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to curb illegal commercial dumping of waste, especially by businesses that generate large amounts of trash, are insufficient. This leads to large piles of commercial waste in public areas. We request stricter enforcement against commercial waste dumping.",
+    "priority": "High",
+    "location": "Mathura"
+  },
+  {
+    "id": "356",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the rapid growth of unauthorized construction and slums without proper water infrastructure. This puts immense strain on existing supply. We request proper urban planning and provision of water infrastructure for all settlements.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "357",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for re-connecting power after bill payments is often slow and bureaucratic, causing inconvenience to consumers who have cleared their dues. A more efficient and rapid re-connection process is needed. We request expedited power re-connections.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "358",
+    "category": "Healthcare",
+    "complaint_text": "The general response time for basic patient needs, such as requesting water or adjusting bedding, in the general wards is often slow, leading to discomfort for patients. Improved staff responsiveness to patient basic needs is required. We request faster response to patient calls.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "359",
+    "category": "Roads",
+    "complaint_text": "The absence of proper designated cycle lanes or safe cycling infrastructure in our city discourages cycling and puts cyclists at risk on busy roads. Dedicated and safe cycling infrastructure is needed. We request the creation of dedicated cycle lanes.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "360",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to promote the use of public dustbins and discourage littering in public spaces are insufficient. Many citizens continue to throw waste indiscriminately. We request more visible and consistent public awareness campaigns on responsible waste disposal.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "361",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area sometimes has a noticeable and persistent metallic taste, indicating significant mineral content or pipe corrosion. This affects taste and could impact health. We request extensive testing and appropriate water treatment to remove metallic tastes.",
+    "priority": "High",
+    "location": "Kanpur"
+  },
+  {
+    "id": "362",
+    "category": "Electricity",
+    "complaint_text": "There are frequent instances of flickering or unstable streetlights in our neighborhood, which are distracting and reduce overall illumination. These lights need consistent power and maintenance. We request repair of flickering streetlights for stable illumination.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "363",
+    "category": "Healthcare",
+    "complaint_text": "The availability of medical specialists for eye care or dental care at the government hospital is often limited, leading to long waiting times or reliance on private clinics for these essential services. We request an increase in specialists for eye and dental care.",
+    "priority": "Medium",
+    "location": "Agra"
+  },
+  {
+    "id": "364",
+    "category": "Roads",
+    "complaint_text": "The roadside areas along our main roads are often used for illegal dumping of waste, leading to unsightly piles of garbage and unsanitary conditions. This is a common sight. We request stricter enforcement against roadside dumping and regular clean-ups.",
+    "priority": "High",
+    "location": "Varanasi"
+  },
+  {
+    "id": "365",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to collect and dispose of large household waste items (like old furniture, appliances) are inefficient, leading to these items being left on roadsides for long periods. A more systematic and accessible collection service is needed. We request better bulk waste management.",
+    "priority": "Medium",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "366",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the rapid commercialization and excessive water usage by businesses like car washes and restaurants, without proper regulation. This strains residential supply. We request stricter regulation of commercial water usage.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "367",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of unauthorized constructions or temporary structures built too close to electricity poles or transformers, posing a safety risk and hindering maintenance access. Strict action against such illegal constructions near electrical installations is needed.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "368",
+    "category": "Healthcare",
+    "complaint_text": "The general transparency of medical records and patient information access is often poor at the government hospital. Patients struggle to obtain their records easily. A more transparent and accessible medical records system is needed. We request easier access to medical records.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "369",
+    "category": "Roads",
+    "complaint_text": "The absence of proper designated loading/unloading zones for commercial vehicles in market areas leads to chaotic parking and significant traffic disruption. Dedicated and enforced loading zones are needed. We request the creation of designated loading/unloading zones.",
+    "priority": "Medium",
+    "location": "Aligarh"
+  },
+  {
+    "id": "370",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's response to complaints about foul odors emanating from waste dumps or drains is often slow, leading to prolonged exposure to unpleasant smells. Faster investigation and remediation of odor complaints are needed. We request quicker response to odor complaints.",
+    "priority": "High",
+    "location": "Moradabad"
+  },
+  {
+    "id": "371",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area frequently has a visible yellowish-green tint, suggesting the presence of algae or other organic matter from the water source. This is concerning for health and aesthetics. We request improved water treatment and regular monitoring of water quality.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "372",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of illegal and unsafe extensions of electricity wires from main lines to temporary shops or structures, posing a fire risk and overload on the system. Strict enforcement against illegal and unsafe electrical extensions is needed. We request action against power theft.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "373",
+    "category": "Healthcare",
+    "complaint_text": "The availability of emergency medical supplies and essential medicines in the emergency ward is sometimes inconsistent, leading to delays in critical treatment. Better stock management and timely procurement are needed. We request consistent supply of emergency medical items.",
+    "priority": "High",
+    "location": "Faizabad"
+  },
+  {
+    "id": "374",
+    "category": "Roads",
+    "complaint_text": "The quality of resurfacing work on major roads is often poor, with new layers of asphalt developing cracks or potholes soon after completion. This indicates substandard materials or workmanship. We request stricter quality control for road resurfacing projects.",
+    "priority": "Medium",
+    "location": "Jhansi"
+  },
+  {
+    "id": "375",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to provide adequate and accessible public handwashing stations, especially in market areas or near public toilets, are insufficient. This impacts public hygiene. We request the installation and maintenance of more public handwashing facilities.",
+    "priority": "Low",
+    "location": "Mathura"
+  },
+  {
+    "id": "376",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to an aging water distribution network prone to frequent bursts and leaks, leading to significant water loss. Urgent replacement and repair of old pipelines are needed. We request an overhaul of the old water pipeline system.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "377",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for applying for financial assistance or subsidies for electricity bills is often complex and lacks clear guidelines, making it difficult for eligible citizens to apply. A simplified and transparent application process is needed. We request easier access to electricity subsidies.",
+    "priority": "Low",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "378",
+    "category": "Healthcare",
+    "complaint_text": "The general patient experience at the government hospital is often affected by long waiting times, lack of clear information, and sometimes indifferent staff. A more patient-centric approach to healthcare delivery is needed. We request a focus on improving patient experience.",
+    "priority": "Medium",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "379",
+    "category": "Roads",
+    "complaint_text": "The absence of proper road markings or clear instructions at roundabouts causes confusion and delays, leading to inefficient traffic flow. Clear markings and guidance are needed for effective roundabout navigation. We request improved roundabout markings.",
+    "priority": "Low",
+    "location": "Noida"
+  },
+  {
+    "id": "380",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to involve local communities in cleanliness drives or waste management initiatives are insufficient. Greater community participation can improve outcomes. We request more community engagement in sanitation programs.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "381",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area sometimes has a noticeable and persistent stale or stagnant taste, indicating issues with water storage or slow circulation in the pipes. This is concerning for freshness. We request an investigation into water storage and circulation.",
+    "priority": "Medium",
+    "location": "Kanpur"
+  },
+  {
+    "id": "382",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of electricity poles or transformers being overgrown by trees, making them difficult to access for maintenance and posing a risk of contact. Regular trimming of trees around electrical infrastructure is needed. We request proper tree clearance around poles.",
+    "priority": "Low",
+    "location": "Lucknow"
+  },
+  {
+    "id": "383",
+    "category": "Healthcare",
+    "complaint_text": "The availability of clean and hygienic changing rooms or private spaces for patients in the government hospital, especially for sensitive examinations, is often lacking. This compromises patient dignity. We request proper and private changing facilities.",
+    "priority": "Medium",
+    "location": "Agra"
+  },
+  {
+    "id": "384",
+    "category": "Roads",
+    "complaint_text": "The general condition of service roads or side lanes parallel to major highways is often poor, with potholes and uneven surfaces, making them uncomfortable and unsafe for local traffic. We request better maintenance of service roads.",
+    "priority": "Medium",
+    "location": "Varanasi"
+  },
+  {
+    "id": "380",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to involve local communities in cleanliness drives or waste management initiatives are insufficient. Greater community participation can improve outcomes. We request more community engagement in sanitation programs.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  },
+  {
+    "id": "385",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to collect and process industrial waste, especially from small-scale industries, are insufficient, leading to illegal dumping and environmental pollution. A more robust and regulated system for industrial waste is needed. We request better industrial waste management.",
+    "priority": "High",
+    "location": "Prayagraj"
+  },
+  {
+    "id": "386",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the excessive pumping of groundwater for non-essential uses like large-scale commercial farming or construction projects. This drains resources. We request stricter regulation of groundwater extraction for non-essential purposes.",
+    "priority": "High",
+    "location": "Meerut"
+  },
+  {
+    "id": "387",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for handling consumer grievances related to meter tampering or illegal connections is often slow and lacks sufficient investigation, allowing issues to persist. A more rigorous and expedited process for such complaints is needed. We request stronger action against power theft.",
+    "priority": "High",
+    "location": "Ghaziabad"
+  },
+  {
+    "id": "388",
+    "category": "Healthcare",
+    "complaint_text": "The general level of comfort and privacy in the patient wards, including the condition of beds and presence of curtains, is sometimes insufficient, impacting patient well-being. Improved facilities for patient comfort and privacy are needed. We request better ward amenities.",
+    "priority": "Low",
+    "location": "Bareilly"
+  },
+  {
+    "id": "389",
+    "category": "Roads",
+    "complaint_text": "The absence of proper designated pedestrian zones or walkways in crowded commercial areas forces pedestrians into vehicular traffic, increasing accident risk. Dedicated and safe pedestrian pathways are needed. We request the creation of pedestrian-only zones.",
+    "priority": "High",
+    "location": "Aligarh"
+  },
+  {
+    "id": "390",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to control and manage the population of stray animals, particularly dogs, which contribute to scattering garbage and creating a nuisance, are insufficient. More comprehensive animal control measures are needed. We request better management of stray animals.",
+    "priority": "Medium",
+    "location": "Moradabad"
+  },
+  {
+    "id": "391",
+    "category": "Water",
+    "complaint_text": "The water supplied to our area frequently has a visible dark brown or black tint, suggesting severe rust, sediment, or even sewage contamination. This is extremely alarming and poses serious health risks. Immediate investigation and thorough purification of the water supply are paramount.",
+    "priority": "High",
+    "location": "Saharanpur"
+  },
+  {
+    "id": "392",
+    "category": "Electricity",
+    "complaint_text": "There are several instances of dilapidated or damaged electricity transmission towers in our district, posing a risk of collapse and major power outages. These critical infrastructure components need immediate inspection and repair or replacement. We request urgent attention to transmission tower integrity.",
+    "priority": "High",
+    "location": "Gorakhpur"
+  },
+  {
+    "id": "393",
+    "category": "Healthcare",
+    "complaint_text": "The availability of specialized services for women's health, such as maternal care or gynecological services, is often limited at the government hospital, leading to long waiting times or reliance on private clinics. We request an increase in specialized women's health services.",
+    "priority": "Medium",
+    "location": "Faizabad"
+  },
+  {
+    "id": "394",
+    "category": "Roads",
+    "complaint_text": "The quality of road signage and information boards in our city is poor, with many being faded, broken, or placed in unintuitive locations. This hinders navigation and can lead to driver confusion. We request improved quality and placement of road signage.",
+    "priority": "Low",
+    "location": "Jhansi"
+  },
+  {
+    "id": "395",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to conduct regular public health awareness campaigns on sanitation, hygiene, and disease prevention are insufficient. Many citizens lack adequate knowledge. We request more consistent and widespread public health education initiatives.",
+    "priority": "Low",
+    "location": "Mathura"
+  },
+  {
+    "id": "396",
+    "category": "Water",
+    "complaint_text": "Our community is facing water scarcity due to the rapid industrialization and associated heavy water consumption by factories, without adequate water recycling measures. This strains overall water resources. We request stricter regulation and promotion of water recycling in industries.",
+    "priority": "High",
+    "location": "Rampur"
+  },
+  {
+    "id": "397",
+    "category": "Electricity",
+    "complaint_text": "The electricity department's process for addressing complaints related to power fluctuations or inconsistent voltage is often slow and lacks effective resolution, leading to recurring issues. A more proactive and technical approach is needed for voltage stabilization. We request better voltage regulation services.",
+    "priority": "Medium",
+    "location": "Shahjahanpur"
+  },
+  {
+    "id": "398",
+    "category": "Healthcare",
+    "complaint_text": "The availability of medical personnel for basic support, such as helping patients with mobility or personal hygiene, is often limited in the general wards, impacting patient comfort and care. We request increased availability of support staff for patient assistance.",
+    "priority": "Low",
+    "location": "Muzaffarnagar"
+  },
+  {
+    "id": "399",
+    "category": "Roads",
+    "complaint_text": "The absence of proper speed cameras or effective traffic enforcement measures on roads prone to speeding leads to reckless driving and increased accident rates. More visible enforcement and deterrents are needed. We request increased presence of speed cameras or enforcement.",
+    "priority": "Medium",
+    "location": "Noida"
+  },
+  {
+    "id": "400",
+    "category": "Sanitation",
+    "complaint_text": "The municipal corporation's efforts to provide adequate and well-maintained public garbage bins in residential areas are insufficient, leading to roadside littering. More bins and regular emptying are needed to encourage proper waste disposal. We request more public bins in residential areas.",
+    "priority": "Low",
+    "location": "Greater Noida"
+  }
+]
